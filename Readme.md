@@ -29,7 +29,7 @@ By doing so we would be able to implement monitoring and even data quality over 
   The answers will be written to the project folder CSV.
   There you will find 2 CSV files, one for each step: port_info.csv, trades_qa
 
-# 4. STEPS
+# 4. Steps
   ### 4.1 Port Data Collection & Research
   - Developed a simple web crawler that will go to https://www.cogoport.com/en/knowledge-center/resources/port-info/ and collect most of the requested port information namely:
     - Get the UN/LOCODE for each port;
@@ -64,20 +64,41 @@ By doing so we would be able to implement monitoring and even data quality over 
     |Fremantle|  AUFRE|PO Box 95, Freman...|    ['CMA', 'Hapag']|               [nan]|
     +---------+-------+--------------------+--------------------+--------------------+
     ```
-  ### 4.3 Quality Assurance, Schema enforcing
+
+  ### 4.3 Quality Assurance & Schema enforcing
   - Enforce of a simple set of rules on the trades.csv file:
     - isoAlpha2Code Compliance Check using retrieved Database.(https://datahub.io/core/country-list);
     - 8 bit hs_code trade code that starts with the '870423' digits;
     - Enforce that in case quantity is not specified then, if the trade is of value lesser than 80,000$ then the quantity is set to '1';
-    - At this stage, Schema enforcing should also be implemented in the future. 
+  - At this stage, Schema enforcing should also be implemented in the future. 
+
   ### 4.4 Extract Transform Load
   - Quick Example of enrichment and 
+
   ### 4.5 Scalability
   - Ideally what should be done at this point is to make sure that the trade data is being handled on a hdfs. For that one must be careful on importing the files straight into the data lake and make sure that the scripts are reading from there.
   - this trades information could also be stored in parquet for ease of querying using a partitioning by date and country perhaps 
-  - The port info static table should never be big enough for us to worry about scalability since it is highly unlikely that it will be anything more than a one-off run.
-  - 
-  ### 4.6 Azure Cloud Implementation
+  - The port info static table should never be big enough for us to worry about resources running out since it is highly unlikely that it will be anything more than a one-off run.
+
+  ### 4.6 Azure Cloud Pipeline Implementation
+Here all sorts of possible architectures come in, and because of the vast alternatives I will try to keep my answer as concise as possible and, in case there are any doubts, for you to consult me directly.
+  #### Architecture 1 - Azure solutions (simpler)
+  - Data ingestion into hdfs like DataLake
+  - Use this DataLake as a volume attached to a service like Databricks in order to run all the scripts
+  - use Databricks Workflows for orchestration much like Airflow or aws stepfunctions in order to schedule runs.
+  - Output everything into a relational Datawarehouse like SQL Server.
+  - This Datawarehouse can be easily connected to any visualization tool like PowerBI or Tableu.
+
+  #### Architecture 2 - Azure solutions (simpler)
+  - Data ingestion into HD Insights
+  - Output everything into a relational Datawarehouse like SQL Server.
+  - This Datawarehouse can be easily connected to any visualization tool like PowerBI or Tableu.
+
+  #### Architecture 3 - Microservices (cheaper but harder)
+  - Data ingestion into hdfs like DataLake
+  - Use this DataLake as a source attached to a Kubernetes server that will run the scripts in Kubernetes Pods/Jobs
+  - To run Spark Jobs in Kubernetes one can use Livy, this solution allows us to use kubernetes nodes to run our spark drivers and executors as pods.
+  - Airflow for orchestration and ingestion into DataWarehouse that could also be SQL Server
 
 
 # Tech challenge for data engineers
