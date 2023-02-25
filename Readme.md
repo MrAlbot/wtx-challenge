@@ -27,7 +27,9 @@ By doing so we would be able to implement monitoring and even data quality over 
 
 # 3. Output
   The answers will be written to the project folder CSV.
-  There you will find 2 CSV files, one for each step: port_info.csv, trades_qa
+  There you will find 5 CSV files, one for each step: port_info.csv, ports_with_latlon.csv, port_info_final.csv, trades_qa.csv
+  The last script outputs the queries in the logs.
+
 
 # 4. Steps
   ### 4.1 Port Data Collection & Research
@@ -73,7 +75,10 @@ By doing so we would be able to implement monitoring and even data quality over 
   - At this stage, Schema enforcing should also be implemented in the future. 
 
   ### 4.4 Extract Transform Load
-  - Quick Example of enrichment and 
+  - Developed 5 queries that answer business questions like:
+    - Average importing/exporting value by country;
+    - Total importing/exporting value by country;
+    - Most popular shipping routes;
 
   ### 4.5 Scalability
   - Ideally what should be done at this point is to make sure that the trade data is being handled on a hdfs. For that one must be careful on importing the files straight into the data lake and make sure that the scripts are reading from there.
