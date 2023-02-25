@@ -1,0 +1,352 @@
+Port Name;Port ID;Address;Shipping Lines;Nearby Cities
+Durres;ALDRZ;Kapitenerija e Portit L Nr 1 Rruga Tregtare Durres Albania;['maersk', 'cosco', 'CMA', 'Hapag'];['Valletta', 'Athens', 'Istanbul', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Bucharest', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'San Marino']
+Skikda;DZSKI;BP 65, Avenue Rezki Rahal, Skikda 21000, Algeria;['cosco', 'CMA'];['Tripoli', 'Valletta', 'Rome', 'Vatican City', 'Algiers', 'Tunis', 'Andorra', 'Monaco', 'San Marino', 'Geneva']
+Oran;DZORN;1 Rue du 20 Aout, Oran 31000, Algeria;['cosco', 'CMA'];['Casablanca', 'Rabat', 'Algiers', 'Lisbon', 'Madrid', 'Andorra']
+Bejaia;DZBJA;13, avenue des freres Amrani, Bejaia 06000, Algeria;['cosco', 'CMA'];['Tripoli', 'Valletta', 'Rome', 'Vatican City', 'Algiers', 'Tunis', 'Madrid', 'Andorra', 'Monaco', 'Geneva']
+Algiers;DZALG;02 Rue d'Angkor BP 259 Algiers, Gare 259 Algeria;['cosco', 'CMA'];['Algiers', 'Tunis', 'Madrid', 'Andorra', 'Monaco', 'Geneva']
+LUANDA;AOLAD;Largo 4 de Fevereiro, Luanda 1229, Angola;['cosco', 'CMA', 'Hapag'];['Libreville', 'Luanda', 'Kinshasa', 'Brazzaville']
+Buenos;ARBUE;Buenos Aires, Argentina;['cosco', 'CMA', 'Hapag'];['Montevideo', 'Buenos Aires', 'Asunción']
+Sydney;AUSYD;PO Box 25 Millers Point, Sydney, NSW 2000, Australia;['cosco', 'CMA', 'Hapag'];['Melbourne', 'Canberra', 'Sydney']
+Melbourne;AUMEL;GPO Box 261, Melbourne, Victoria 3001, Australia;['cosco', 'CMA', 'Hapag'];['Melbourne', 'Canberra', 'Sydney']
+Fremantle;AUFRE;PO Box 95, Fremantle, Western Australia 6959, Australia;['CMA', 'Hapag'];[nan]
+Brisbane;AUBNE;1 Sandpiper Avenue, Locked Bag 1818, Port of Brisbane, Queensland 4178, Australia;['cosco', 'CMA', 'Hapag'];
+Adelaide;AUADL;296 St Vincent Street, Port Adelaide, South Australia 5015, Australia;['maersk', 'cosco', 'CMA', 'Hapag'];
+Bahrain;BHBAH;"\"\"\"Office#2";"Building No:702 Road 1510 Hidd 115 Muharraq Governorate\"";
+Chittagong;BDCGP;Bandar Bhaban, P. O. Box 2013 Chittagong-4100, Bangladesh;['CMA', 'Hapag'];
+Antwerp;BEANR;Havenbedrijf Antwerpen NV van publiek recht, Havenhuis, Zaha Hadidplein 1, 2030 Antwerp, Belgium;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Cotonou;BJCOO;Autonomous Port of Cotonou Cotonou - Boulevard of the Marina Litoral - BP 927 - Cotonou;['CMA', 'safmarine'];['São Tomé', 'Libreville', 'Malabo', 'Yaoundé', 'Abidjan', 'Accra', 'Lomé', 'Cotonou', 'Lagos', 'Porto-Novo', 'Yamoussoukro', 'Abuja', 'Ouagadougou', 'Niamey']
+Santos;BRSSZ;Companhia Docas do Estado de Sao Paulo (CODESP), Avenida Rodrigues Alves s/n, Santos, Sao Baulo 11015-900, Brazil;['cosco', 'Hapag', 'CMA', 'safmarine'];['São Paulo', 'Rio de Janeiro', 'Brasília']
+Port;SCPOV;Av. Getulio Vargas, 556, Vitoria, ES CEP 29.020-030, Brazil;[];
+Paranagua;BRPNG;Rua Antonio Pereira, 161, Paranagua, PR 83221-030, Brazil;['cosco', 'Hapag', 'CMA', 'safmarine'];['Asunción', 'São Paulo', 'Rio de Janeiro', 'Brasília']
+Navegantes;BRNVT;Anibal Gaya, 707 Centro Navegantes, SC 88375-000, Brazil;[];
+Itajai;BRITJ;Rua Blumenau, 05, Itajai, Santa Catarina CEP 88.305-101, Brazil;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Varna;BGVAR;1 Slaveikov Square, Varna 9000, Bulgaria;['cosco', 'CMA', 'Hapag'];['Nicosia', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Ankara', 'Bucharest', 'Belgrade', 'Chi?in?u', 'Budapest', 'Kyiv']
+Burgas;BGBOJ;"1, Prince Alexander Battenberg Str. Bourgas 8000 Bulgaria\"\"";['cosco', 'CMA', 'Hapag'];['Nicosia', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Ankara', 'Bucharest', 'Belgrade', 'Chi?in?u', 'Budapest', 'Kyiv']
+Douala;CMDLA;5 Boulevard Leclerc, Douala BP 4020, Cameroon;[];
+Vancouver;CAVAN;100 The Pointe, 999 Canada Place, Vancouver, British Columbia V6C 3T4, Canada;['cosco', 'CMA', 'safmarine'];['Vancouver']
+Toronto;CATOR;60 Harbour Street, Toronto, Ontario M5J 1B7, Canada;['cosco', 'CMA', 'safmarine'];['Washington,  D.C.', 'New York', 'Chicago', 'Toronto', 'Ottawa']
+Montreal;CAMTR;Port of Montreal Building, Wing No. 1, Cite du Havre, Montreal, Quebec H3C 3R5, Canada;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Casablanca;null;null;[];
+Santiago;null;Alan Macowan San Antonio 0245 Chile;['maersk', 'cosco', 'CMA', 'Hapag'];
+San;CLSAI;Alan Macowan, San Antonio 0245, Chile;['maersk', 'cosco', 'CMA', 'Hapag'];['Santiago', 'Valparaíso']
+Xingang;CNXGA;35 Xingang Road No 2, Tanggu, Tianjin, Heibei 300456, China;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Xiamen;CNXMN;127 Dongdu Road, Xiamen, Fujian 361012, China;['cosco', 'CMA', 'Hapag'];
+Tianjin;CNTXG;35 Xingang Road No 2, Tanggu, Tianjin, Heibei 300456, China;['cosco', 'CMA', 'Hapag'];
+Shenzhen;CNSNZ;Yantian, China;['cosco', 'CMA', 'Hapag'];
+Shanghai;CNSGH;358 East Daming Road, Shanghai, Shanghai 200080, China;['cosco', 'CMA', 'Hapag'];
+Qingdao;CNQIN;Port Administration Office, 6 Gangqing Road, Qingdao, Shandong 266011, China;['cosco', 'CMA', 'Hapag'];
+Ningbo;CNNBG;Port Administration Office, 496 Yanjiang Dong Road, Ningbo, Zhejiang 315200, China;['cosco', 'CMA', 'Hapag'];
+Lanshi;CNLNS;China Marine Shipping Agency, Guangdong Foshan Co.,Ltd.;['cosco', 'CMA', 'Hapag'];
+Huangpu;CNHUA;Huangpu, China;['cosco', 'CMA', 'Hapag'];
+Guangzhou;CNCAN;531 Gangqian Road Huangpu District Guangzhou, Guangdong 510000 China;['cosco', 'CMA', 'Hapag'];
+Dalian;CNDAL;1 Gangwan Street, Zhongshan District, Dalian, Liaoning 116004, China;['safmarine', 'Hapag'];['Shanghai', 'Seoul', 'Pyongyang', 'Beijing']
+Chongqing;CNCQI;Beipei Wharf Admin Office, Wuchang Road, Beipei City, Sichuan 630700, China;['Hapag'];
+Cartagena;null;Manga Terminal Maritimo, Cartagena A.A 7954, Colombia;[];
+Monterrey;null;null;[];
+Medellin;null;null;['cosco', 'CMA', 'Hapag'];
+Cartagena;ESCAR;Manga Terminal Maritimo, Cartagena A.A 7954, Colombia;['cosco', 'CMA', 'Hapag'];['Casablanca', 'Rabat', 'Algiers', 'Lisbon', 'Madrid', 'Andorra']
+Buenaventura;COBUN;Avenida Portuaria, Edificio de Administracon, Buenaventura, Colombia;['cosco', 'Hapag', 'CMA', 'maersk'];['Quito', 'Bogota', 'Panama City', 'San José']
+Brazzaville;null;null;['CMA', 'maersk'];
+Sibti;null;null;[];
+Pointe;CGPNR;BP 711,Pointe Noire, Republic of Congo;['CMA'];['São Tomé', 'Libreville', 'Malabo', 'Yaoundé', 'Luanda', 'Kinshasa', 'Brazzaville']
+Matadi;CDMAT;Office National des Transports (ONATRA), Boulevard du 30 Juin, Kinshasa, Congo, Democratic Republic of;['CMA'];
+Abidjan;null;Abidjan Cote D'Ivoire;['cosco'];
+Ploce;null;Trg Kralja Tomislava 21, Ploce 20 340, Croatia;['cosco', 'CMA', 'maersk'];
+Zagreb;null;null;['cosco', 'CMA', 'maersk'];
+Split;null;Gat Sv. Duje 1, Split 21000, Croatia;['cosco', 'CMA', 'maersk'];
+Rijeka;HRRJK;LUKA Rijeka d.d., Riva 1, Rijeka 51000, Croatia;['cosco', 'CMA', 'Hapag'];
+Mananillo;null;Manzanillo, Cuba;['CMA', 'Hapag'];
+Limassol;CYLMS;23 Crete Str, P.O.Box 22007, Limassol, Nicosia 1516, Cyprus;['cosco', 'CMA', 'Hapag'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Athens', 'Istanbul', 'Ankara']
+Copenhagen;DKCPH;"DK-2150 Nordhavn Copenhagen Denmark\"\"";['CMA', 'safmarine', 'Hapag'];['Ljubljana', 'Bratislava', 'Vienna', 'Prague', 'Vaduz', 'Warsaw', 'Berlin', 'København', 'Stockholm', 'Luxembourg', 'Brussels', 'The Hague', 'Amsterdam', 'Oslo']
+Djibouti;DJJIB;"\"\"\"BP 2107 Djibouti Djibouti\"\"\"";['cosco', 'Hapag'];['Mogadishu', 'Addis Ababa', 'Hargeisa', 'Djibouti', 'Asmara', 'Sanaa']
+Oakland;USOAK;530 Water Street, Oakland, CA 94607, United States;['cosco', 'safmarine', 'Hapag'];['Los Angeles', 'San Francisco']
+Caucedo;DOCAU;Zona Franca Multimodal Caucedo, Bldg. ADM. Suite 200, Punta Caucedo, Boca Chica, Dominican Republic;['CMA'];
+Guayaquil;ECGYE;Guayaquil, Ecuador;['maersk', 'cosco', 'CMA', 'Hapag'];
+Sokhna(Al;null;Ein El-Sokhna Port, El-Sokhna, Egypt;['cosco', 'CMA', 'Hapag'];
+Port;EGPSW;Intersection of Mostafa Kamel and Azmy Street, Port Said, Egypt;['cosco', 'CMA', 'Hapag'];
+EL;EGEDK;106 El Horreya St,Alexandria,Egypt;['CMA', 'Hapag'];
+Damietta;EGDAM;Port of Damietta. Port Authority: Damietta Port Authority. PO Box 13. Damietta 34511. Egypt. Phone:;['CMA', 'Hapag'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Istanbul', 'Ankara']
+Alexandria;EGALY;106 El Horria Avenu- Alex Fouad St.Alex Alexandria 26514 Egypt;['cosco', 'CMA', 'Hapag'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Athens', 'Istanbul', 'Ankara']
+Dembidollo;null;null;[];
+Asmara;null;null;['Hapag'];
+Suva;FJSUV;G.P.O Box 780, Kaunikula House, Flagstaff, Suva, Fiji;['CMA', 'Hapag'];['Suva', 'Funafuti']
+Helsinki;null;"\"\"\"Olympiaranta 3 P.O. Box 800 Helsinki FIN-00099 Finland\"\"\"";['cosco', 'CMA', 'Hapag'];
+Marseille;FRMRS;23 place de la Joliette, BP 81965, Marseille, Cedex 2 13226, France;['cosco', 'Hapag', 'CMA', 'safmarine'];['Rome', 'Vatican City', 'Ljubljana', 'Algiers', 'Tunis', 'Madrid', 'Andorra', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Paris', 'Luxembourg', 'Brussels', 'London', 'The Hague', 'Amsterdam']
+Le;FRLEH;Terre-Plein de la Barre, B.P. 1413, Le Havre, Cedex 76067, France;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Fos;FRFOS;23 place de la Joliette BP 81965 Marseille, Cedex 2 13226 France;['CMA', 'Hapag'];
+Dunkerque;null;Port of Dunkerque port 2505 - 2505 route de l'Ecluse Trystram - BP 46534 - 59386 Dunkerque Cedex 1 France;['CMA', 'safmarine', 'Hapag'];
+Libreville;GALBV;Owendo Po Box 1051, Libreville, Gabon;['CMA'];
+Banjul;GMBJL;34 Liberation Avenue P O Box 617 Banjul Gambia;['CMA'];
+Mannheim;DEMHG;Rheinvorlandstrasse 5, Mannheim 68159, Germany;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Hamburg;DEHAM;Mattentwiete 2, Hamburg D – 20457, Germany;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Bremerhaven;DEBRV;Hansestadt Bremisches, Ueberseetor 2, Bremen, Germany;['maersk', 'cosco', 'safmarine', 'CMA', 'Hapag'];
+Bremen;DEBRE;Hansestadt Bremisches, Ueberseetor 2, Bremen, Germany;['maersk', 'cosco', 'safmarine', 'CMA', 'Hapag'];
+Accra;null;null;['maersk', 'cosco', 'CMA', 'safmarine'];
+Tema;GHTEM;PO Box 488, Tema, Ghana;['cosco', 'CMA', 'safmarine'];['São Tomé', 'Malabo', 'Abidjan', 'Accra', 'Lomé', 'Cotonou', 'Lagos', 'Porto-Novo', 'Yamoussoukro', 'Abuja', 'Ouagadougou', 'Niamey']
+Thessaloniki;GRSKG;P.O. Box 10467, Thessaloniki GR-541 10, Greece;['cosco', 'CMA', 'Hapag'];['Valletta', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Ankara', 'Bucharest', 'Belgrade', 'Zagreb', 'Chi?in?u', 'Budapest', 'Bratislava']
+Piraeus;GRPIR;10 Akti Miaouli, Piraeus 185 38, Greece;['cosco', 'CMA', 'Hapag'];['Valletta', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Ankara', 'Bucharest', 'Belgrade']
+Puerto;GTPRQ;Puerto Quetzal, Guatemala;['cosco', 'CMA', 'Hapag'];
+Conakry;GNCKY;BP 805 Conakry Guinea;['CMA', 'Hapag'];['Monrovia', 'Yamoussoukro', 'Freetown', 'Conakry', 'Bissau', 'Bamako', 'Banjul', 'Dakar', 'Nouakchott']
+Hong;HKHKG;Marine Department, Harbour Building, 38 Pier Road, Central, Hong Kong;['CMA', 'safmarine', 'Hapag'];['Baguio', 'Hanoi', 'Hong Kong', 'Taipei']
+Vizag;INVIZ;Visakhapatnam, Andhra Pradesh 530 035, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Tuticorin;INTUT;DBGT Pvt Ltd 8th Berth, VOC Port Trust Tuticorin 628 004;['cosco', 'Hapag', 'CMA', 'safmarine'];['Sri Jayawardenepura Kotte', 'Colombo', 'Malé', 'Bengaluru']
+Tughlakabad;ICD;Container Corporation of India Ltd. Inland Container Depot, Tughlakabad, New Delhi-110020;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Port;INIXZ;Port Blair, Andaman Islands, India;['cosco', 'Hapag', 'CMA', 'safmarine'];['Bangkok', 'Yangon', 'Naypyidaw']
+Piyala;INFBE;Rail Linked Logistics Park, Piyala, Ballabhgarh, Faridabad 121004;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Pipavav;null;Port of Pipavav, Post Uchaiya via Rajula, District Amreli, Gujarat 365 560, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+PARADIP;INPRT;P.O. Paradip Port, District Cuttack, Paradip, Orissa 754 142, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Nagpur;null;null;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Mundra;INMUN;Post Box No. 1, Mundra (Kutch), Gujarat 370421, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Mumbai;null;Port House, Shoorji Vallabhdas Marg, Mumbai, Maharastra 400 001, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Mormugao;INMRM;Headland, Sada, Goa 403804, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Mangalore;INIXE;Panambur, Manglore 575010, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Krishnapatnam;INKRI;1259, Laxmi Towers, Road No.36,, Jubilee Hills, Hyderabad 500 033, India;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Kolkata;INCCU;15 Strand Road, Kolkata 700 001, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Kandla;INIXY;Post Box 50, Administrative Building, Gandhidham, Gujarat 370 201, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Jodhpur;INJDG;village-pal, barmer road jodhpur- 34008 rajasthan;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Jawaharlal;null;Sheva, Navi Mumbai, Maharashtra 400702, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Jaipur;null;Container Corporation of India LTd., Inland Container Depot, Kanakpura, Jaipur;['Hapag', 'CMA', 'safmarine'];
+ICD;null;Whitefield Road, Kadugodi, Bengaluru, Karnataka 560066;['cosco', 'Hapag', 'CMA', 'safmarine'];
+ICD;null;Banthala Chirori Loni, Ghaziabad, U.P. - 201102;['cosco', 'Hapag', 'CMA', 'safmarine'];
+ICD;null;null;['cosco', 'Hapag', 'CMA', 'safmarine'];
+ICD;INDER;ICD Dadri, Tilpatta Road, Dadri, Greater Noida, Uttar Pradesh 201311;['cosco', 'Hapag', 'CMA', 'safmarine'];
+ICD;INAMD;Container Corporation Of India Ltd., Domestic Container Terminal, Jamiyatpura Village Road, Near Khodiyar Railway Station, Sarkhej Gandhinagar Highway, Distt. Gandhinagar,Ahmedabad-382421;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Hazira;INHZA;At & Post Hazira, Tal. Choriyasi, Surat, Gujarat 394270;['cosco', 'Hapag', 'CMA', 'safmarine'];['Mumbai', 'Bengaluru', 'New Delhi']
+Haldia;INHAL;Haldia, Purba Medinipur, West Bengal 721657, India;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Chennai;INMAA;1 Rajaji Salai, Chennai - 600 001, Tamil Nadu, India;['CMA', 'safmarine'];['Sri Jayawardenepura Kotte', 'Colombo', 'Mumbai', 'Bengaluru']
+ACTL;null;M-26, Main Market, Greater Kailash- II, New Delhi - 110048 India;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Surabaya;IDSUB;Jl. Tanjung Mutiara 1, Surabaya 60177, Indonesia;['cosco', 'Hapag', 'CMA', 'safmarine'];['Jakarta']
+Semarang;IDSRG;Pelabuhan Indonesia lll, Jl Coaster No 10, Semarang, Jawa Tengah, Indonesia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Jakarta(Tanjung;null;JL.Raya Pelabuhan No.9, Tanjung Priok, Jakarta 14310, Indonesia;['cosco', 'CMA', 'Hapag'];
+Belawan;null;Jalan Sumatera No. 1, Belawan, Sumatera Utara 20411, Indonesia;['maersk', 'cosco', 'safmarine', 'CMA', 'Hapag'];
+Bandar;IRBND;Bandar Abbas, Iran;['cosco', 'CMA'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City', 'Tehran']
+Umm;IQUQS;"\"\"\"Terminal 6";south Port;
+Umm;IQUQR;null;['cosco', 'safmarine', 'Hapag'];
+Shannon;null;Shannon Foynes Port Company,, Harbour Office,, Foynes,, Co. Limerick,, Ireland V94R232;['maersk', 'cosco', 'CMA', 'safmarine'];
+Baltimore;null;Baltimore, Co Cork, Ireland;['maersk', 'cosco', 'CMA', 'safmarine'];
+Dublin;IEDUB;"\"\"\"Port Centre - Alexandra Road  Dublin 1 - Ireland\"\"\"";['CMA', 'cosco', 'safmarine', 'maersk'];
+Haifa;ILHFA;Haifa Port - Passenger Terminal, Haifa, Israel;['maersk', 'cosco', 'Hapag'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Baghdad', 'Damascus', 'Beirut', 'Nicosia', 'Ankara']
+Ashdod;ILASH;"\"\"\"Derech Petach Tikva 74 P.O.Box 20121 Tel Aviv 61201 Israel\"\"\"";['cosco', 'Hapag'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Baghdad', 'Damascus', 'Beirut', 'Nicosia', 'Ankara']
+Venice;null;Zatere, 1401, Venezia, VE 30123, Italy;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Trieste;ITTRS;Via Von Bruck, 3, Trieste, TS 34143, Italy;['cosco', 'Hapag', 'CMA', 'safmarine'];['Valletta', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Warsaw', 'Berlin', 'Luxembourg']
+Salerno;ITSAL;Via A Sabatini 8, Salerno, SA 84121, Italy;['cosco', 'Hapag', 'CMA', 'safmarine'];['Tripoli', 'Valletta', 'Athens', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Monaco', 'San Marino', 'Bern', 'Vaduz']
+Napoli;null;Piazzale Piscane, Naples, NA 80133, Itlay;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Livorno;null;Palazzo Rosciano 6, Livorno, LI 57123, Italy;['cosco', 'Hapag', 'CMA', 'safmarine'];
+La;ITSPE;Via del Molo, 1, La Spezia, SP 19126, Italy;['cosco', 'Hapag', 'CMA', 'safmarine'];['Valletta', 'Rome', 'Vatican City', 'Podgorica', 'Sarajevo', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Andorra', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Berlin', 'Paris', 'Luxembourg', 'Brussels', 'The Hague', 'Amsterdam']
+Gioia;ITGIT;Contrada Lamia, Gioia Tauro, RC 89013, Italy;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Genoa;ITGOA;Palazzo San Giorgio - Via della Mercanzia 2 - 16124 Genova, Italy;[];['Rome', 'Vatican City', 'Sarajevo', 'Zagreb', 'Ljubljana', 'Bratislava', 'Vienna', 'Prague', 'Algiers', 'Tunis', 'Andorra', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Berlin', 'Paris', 'Luxembourg', 'Brussels', 'The Hague', 'Amsterdam']
+Civitavecchia;ITCVV;Molo Vespucci Civitavecchia, RM 00053 Italy;['CMA', 'safmarine'];['Tripoli', 'Valletta', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Luxembourg']
+Catania;ITCTA;Via Cardinale Dusmet 2/P CIRCUM, Catania, CT 95131, Italy;['CMA', 'safmarine'];['Tripoli', 'Valletta', 'Athens', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Tunis', 'Monaco', 'San Marino']
+Cagliari;ITCAG;"\"\"\"Molo Sanita Porto di Cagliari Cagliari 09123 Italy\"\"\"";['CMA', 'cosco', 'safmarine', 'Hapag'];['Tripoli', 'Valletta', 'Rome', 'Vatican City', 'Zagreb', 'Ljubljana', 'Algiers', 'Tunis', 'Andorra', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz']
+Ancona(ITAOI);ITAOI;"Molo S. Maria Ancona, AN 60121 Italy\"\"";['CMA', 'cosco', 'safmarine', 'Hapag'];['Valletta', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Berlin', 'Luxembourg']
+Yokohama;JPYOK;2 Yamashita-cho Naka-ku, Yokohama 231-0023, Japan;['CMA', 'Hapag'];['?saka', 'Kyoto', 'Tokyo']
+Tokyo;JPTYO;8-1 Nishishinjuku 2-chome Shinjuku-ku, Tokyo 163-8001, Japan;['CMA', 'Hapag'];['?saka', 'Kyoto', 'Tokyo']
+Nagoya;JPNGO;8-21 Irifune 1-chome, Minato-ku, Nagoya, Aichi 455-8686, Japan;['CMA', 'Hapag'];['?saka', 'Kyoto', 'Tokyo']
+Kobe;JPUKB;Kobe C.I.T. Bldg,16F, 1-14,Hamabe-Dori 5-chome,, Chuo-ku, Kobe 651-0083, Japan;['CMA', 'Hapag'];
+Amman;null;null;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Aqaba;JOAQJ;PO Box 115, Aqaba 77110, Jordan;['CMA', 'cosco', 'safmarine'];
+Mombasa;KEMBA;P.O Box 95009, Mombasa, Kenya;['CMA', 'safmarine'];['Moroni', 'Dar es Salaam', 'Dodoma', 'Nairobi', 'Kampala', 'Mogadishu', 'Kigali']
+EMBAKASI;null;null;['safmarine'];
+Incheon;KRINC;Seohaero 193 (1-17 7(chil)-ga Hang-dong), Jung-gu, Incheon, Korea, South;[];
+Gwangyang;null;335-1 Sujeong-dong, Yeosu City 550-705, Korea, South;['maersk'];
+Busan;KRPUS;122, Daegyo-ro, Jung-gu, Busan 48943, Republic of Korea;['cosco', 'CMA', 'Hapag'];['Shanghai', '?saka', 'Kyoto', 'Seoul', 'Pyongyang']
+Shuwaikh;KWSWK;P.O Box 3874, Safat 13039, Kuwait;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Shuaiba;KWSAA;P.O Box 3874, Safat 13039, Kuwait;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Kuwait;KWKWI;null;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Huelva;ESHUV;P.O Box 3874 /Safat 13039/Kuwait;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Riga;LVRIX;12 O. Kalpaka blvd., Riga LV 1050, Latvia;['cosco', 'CMA'];
+Beirut;LBBEY;"\"\"\"Quarantaine region POBOX: 1490 BEIRUT\"\"\"";['cosco', 'CMA'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Baghdad', 'Damascus', 'Beirut', 'Nicosia', 'Istanbul', 'Ankara']
+Monrovia;LRMLW;C/O National Port Authority, PO Box 14, Monrovia, Liberia;['cosco', 'CMA', 'safmarine'];['Abidjan', 'Monrovia', 'Yamoussoukro', 'Freetown', 'Conakry', 'Bissau', 'Bamako', 'Banjul']
+Misurata;LYMRA;PO Box 18342, Misratah, Libya;['cosco', 'CMA'];
+AL;LYKHO;PO Box 18342, Misratah, Libya;['cosco', 'CMA'];
+Klaipeda;null;J. Janonio g. 24, Klaipeda LT-92251, Lithuania;['CMA', 'maersk'];
+Klaipeda;LTKLJ;J. Janonio g. 24, Klaipeda LT-92251, Lithuania;['CMA', 'maersk'];
+Toamasina;MGTOA;Soc d Exploitation du Port, Toamasina, Madagascar;['CMA', 'safmarine'];['Port Louis', 'Antananarivo', 'Moroni']
+Tamatave;null;Soc d Exploitation du Port, Toamasina, Madagascar;['CMA', 'safmarine'];
+Tawau;MYTWU;Wisma Pelabuhan, P.O. box 335, Tawau, Sabah 91007, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Tanjung;MYTPP;Bangunan Pentadbiran Pelabuhan, Jalan Pelabuhan Tanjung Pelepas, Gelang Patah, Johor Darul Takzim 81560, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Sandakan;MYSDK;Wisma Pelabuhan, Jalan Karamunsing, P.O. Box 1368, Sandakan, Sabah 90715, Malaysia;[];['Bandar Seri Begawan', 'Manila']
+Port;null;null;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Port;null;Mail Bag Service 202, Jalan, Port Klang, Pelabuhan 42005, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Penang;null;3A-6 Bangunan Sri Weld, Pangkalan Weld, Penang 10300, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Pasir;null;PO Box 151, Pasir Gudang, Johor 81700, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Kota;null;Sabah Ports Authority Building, Jalan Tun Fuad, Kota Kinabalu, Tanjong Lipat 88617, Malaysia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Bintulu;MYBTU;Lot 15, Block 20, Kemena Land District, 12th Mile, Tanjung Kidurong Road, Bintulu, Sarawak 97008, Malaysia;['maersk', 'cosco', 'safmarine', 'CMA', 'Hapag'];['Singapore', 'Bandar Seri Begawan']
+Male;MVMLE;Boduthakurufaanu Magu, Maafannu, Male 20250, Maldives;['CMA'];
+Marsaxlokk;MTMAR;Freeport Centre, Kalafrana BBG 3011, Malta;['cosco', 'CMA'];['Tripoli', 'Valletta', 'Athens', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sarajevo', 'Tunis', 'San Marino']
+Nouakchott;MRNKC;BP 5103, Nouakchott, Mauritania;['cosco', 'CMA'];
+Port;MUPLU;H.Ramnarain Building, Mer RougePort Louis, Mauritius;['cosco', 'CMA'];['Port Louis']
+Manzanillo;null;Av. Teniente Azueta No. 9, Col. Burocrata, Manzanillo, Colima C.P. 28250, Mexico;['cosco', 'CMA', 'maersk'];
+Veracruz;MXVER;Av. Marina Mercante No. 210, 7 piso, Col. Centro, Veracruz, Veracruz 91700, Mexico;['maersk', 'cosco', 'CMA', 'Hapag'];['San Salvador', 'Guatemala City', 'Belmopan', 'Mexico City', 'Monterrey']
+Manzanillo,;MXZLO;Av. Teniente Azueta No. 9, Col. Burocrata, Manzanillo, Colima C.P. 28250, Mexico;['cosco', 'CMA', 'Hapag'];['Mexico City', 'Monterrey']
+Ensenada;MXESE;Blvd. Teniente Azueta No. 224, Recinto Portuario, Ensenada, Baja California C.P. 22800, Mexico;['cosco', 'CMA', 'Hapag'];['Los Angeles', 'San Francisco']
+Bar;MEBAR;Luka Bar, Bar, Montenegro;[];['Valletta', 'Athens', 'Istanbul', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Sarajevo', 'Bucharest', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'San Marino']
+Tanger;MAPTM;Tanger, Morocco;['cosco', 'CMA', 'safmarine'];['Casablanca', 'Rabat', 'Algiers', 'Lisbon', 'Madrid', 'Andorra']
+Casablanca;MACAS;Casablanca Morocco;['cosco', 'safmarine', 'CMA', 'maersk', 'Hapag'];['Bir Lehlou', 'Laayoune', 'Casablanca', 'Rabat', 'Lisbon', 'Madrid']
+Nacala;MZMNC;Praca dos trabalhadores, C.P. No. 2159, Maputo, Mozambique;['cosco', 'CMA'];
+Maputo;MZMPM;P O Box 2841, Maputo, Mozambique;['cosco', 'CMA'];
+Beira;MZBEW;Largo dos CFM, C.P. No. 236, Beira, Mozambique;['cosco', 'CMA'];['Lobamba', 'Mbabane', 'Johannesburg', 'Pretoria', 'Harare', 'Maputo', 'Lilongwe', 'Lusaka']
+Yangon;MMRGN;Traffic Dept, Agency Div 83-91, Bo Aung Gyaw Street, Yangon, Myanmar;['cosco', 'CMA', 'safmarine'];
+Rotterdam;NLRTM;P.O. Box 6622, Rotterdam 3002 AP, Netherlands;['cosco', 'CMA', 'Hapag'];
+Tauranga;NZTRG;Salisbury Avenue, Post Bag 1, Mount Maunganui 3030, New Zealand;['cosco', 'CMA', 'Hapag'];['Wellington', 'Auckland']
+Napier;NZNPE;PO Box 947, Breakwater Road, Napier, New Zealand;['cosco', 'CMA', 'Hapag'];['Wellington', 'Auckland']
+Lyttelton;NZLYT;Private Bag 501, Norwich Quay, Lyttelton, New Zealand;['cosco', 'CMA', 'Hapag'];
+Auckland;NZAKL;Ports of Auckland Building, Sunderland Street, Auckland, New Zealand;['cosco', 'CMA', 'Hapag'];
+Tincan;null;P.M.B 1201, Apapa, Lagos, Nigeria;['cosco', 'CMA', 'safmarine'];
+Onne;NGONN;Onne Port Complex, Onne, Nigeria;['cosco', 'CMA'];
+Apapa;null;P.M.B 1021 Apapa, Lagos Nigeria;['CMA', 'cosco', 'safmarine'];
+Port;null;null;['maersk', 'cosco', 'CMA', 'Hapag'];
+Port;null;null;['maersk', 'cosco', 'CMA', 'Hapag'];
+Oslo;NOOSL;P.O.Box. 230 Sentrum, Oslo N-0103, Norway;['maersk', 'cosco', 'CMA', 'Hapag'];['Berlin', 'København', 'Stockholm', 'Amsterdam', 'Oslo']
+CRAIOVA;null;null;[];
+Muscat;null;Post Box 133, Muscat 113, Oman;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Sohar;OMSOH;P.O. Box 366, Liwa 325, Oman;['cosco', 'Hapag', 'CMA', 'safmarine'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City']
+Salalah;OMSLL;P O Box 105, Muscat Postal Code 118, Oman;['cosco', 'Hapag', 'CMA', 'safmarine'];['Sanaa', 'Muscat', 'Abu Dhabi', 'Dubai', 'Doha', 'Manama']
+Constanta;ROCND;Incinta Port Constanta, Gara Maritima, cod 900900;['maersk', 'cosco', 'CMA', 'Hapag'];['Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Ankara', 'Bucharest', 'Belgrade', 'Chi?in?u', 'Kyiv', 'Minsk']
+Port;PKBQM;Bin Qasim, Karachi, 75020, Pakistan;['CMA', 'safmarine'];['Mumbai', 'Muscat', 'Kabul']
+Karachi;PKKHI;Eduljee Dinshaw Road, Karachi 74000, Pakistan;['CMA', 'safmarine'];['Mumbai', 'Muscat', 'Kabul']
+Colon;null;null;['cosco', 'CMA'];
+Colon;PAONX;Coco Solo Norte, P.O. BOX 0301-04335, Colon, Panama;['cosco', 'CMA'];['Quito', 'Bogota', 'Panama City', 'San José', 'Managua', 'Tegucigalpa', 'Kingston']
+Balboa;PABLB;Arnulfo Arias Madrid Avenue, Building 1501, P.O. Box 0843-00574, Panama, Panama;['cosco', 'CMA', 'Hapag'];
+Paita;null;null;['cosco', 'CMA', 'maersk'];
+Lima;null;Av. Contralmirante Raygada 110, Callao, Peru;['cosco', 'CMA', 'maersk'];
+Callao;PECLL;"\"\"\"Av. Contralmirante Raygada 110 Callao Peru\"\"\"";['cosco', 'CMA', 'Hapag'];['Lima']
+Cebu;null;null;['cosco', 'CMA'];
+Manila;PHMNS;PNR Building, South Harbor, Manila, Philippines;[];
+Manila;PHMNN;null;['cosco', 'CMA'];
+Davao;PHDVO;Sasa Wharf, P.O. Box 502, Davao City 8000, Philippines;['CMA'];['Melekeok', 'Manila']
+Poznan;null;null;[];
+Warsaw;null;null;['cosco', 'CMA', 'safmarine'];
+Gdynia;PLGDY;Rotterdamska 9 PO BOX 225 Gdynia 81-337 Poland;['safmarine'];['Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Warsaw', 'Berlin', 'Minsk', 'Vilnius', 'København', 'Riga', 'Stockholm', 'Tallinn', 'Helsinki', 'Oslo']
+Gdansk;PLGDN;18 Zamknieta Str., Gdansk 80-955, Poland;['cosco', 'safmarine'];
+Lagos;null;Lagos, Faro, Portugal;['cosco', 'safmarine', 'maersk'];
+Leixoes;null;Avenida da Liberdade, 4451-851 Leca da Palmeira, Leixoes 3004, Portugal;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Lisbon;PTLIS;Rua da Junqueira, 94, Lisbon, Lisbon 1349-026, Portugal;['cosco', 'safmarine', 'maersk'];
+Leixoes;PTLEI;Avenida da Liberdade, 4451-851 Leca da Palmeira, Leixoes 3004, Portugal;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Hamad;QAHMD;null;['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Doha;QADOH;"\"\"\"PO Box 81 Department of Ports Doha Qatar\"\"\"";['cosco', 'safmarine', 'CMA', 'maersk', 'Hapag'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City']
+Vladivostok;null;9, Strelnikova Str., Vladivostok 690950, Russia;['cosco', 'safmarine'];
+Novorossiysk;null;2, Mira str., Novorossiysk, Krasnodar Region 353900, Russia;['cosco', 'safmarine'];
+Saint;null;10 Gapsalskaya Str., St. Petersburg 198035, Russia;['cosco', 'safmarine'];
+Kaliningrad;RUKGD;24, Portvaya Str., Kaliningrad 236003, Russia;['cosco', 'safmarine'];
+Savaii;null;null;[];
+Apia;null;P. O. Box 2279, Matautu-tai, Apia, Apia, Samoa;[];
+Riyadh;SARUH;"\"\"\"P.O. Box 9285 Jeddah 21188 Saudi Arabia\"\"\"";['cosco', 'CMA', 'Hapag'];
+King;SAKAC;23998, Saudi Arabia;['cosco', 'Hapag', 'CMA', 'safmarine'];
+Jeddah;SAJED;P.O. Box 9285, Jeddah 21188, Saudi Arabia;['cosco', 'Hapag', 'CMA', 'safmarine'];['Asmara', 'Sanaa', 'Khartoum', 'Riyadh']
+Dammam;SADMM;P.O. Box 28062, Dammam 31188, Saudi Arabia;['CMA', 'safmarine', 'Hapag'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City', 'Baghdad', 'Tehran']
+Al;null;P.O. Box 276, Jubail, Saudi Arabia;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Dakar;SNDKR;Port Autonome de Dakar21, Bd de la Libération - Post Box 3195 Dakar/Sénégal;['CMA'];['Freetown', 'Conakry', 'Bissau', 'Bamako', 'Banjul', 'Dakar', 'Praia', 'Nouakchott']
+Belgrade;null;Francuska 81. St., Belgrade 11000, Serbia;['cosco', 'CMA'];
+Olomouc;null;null;['cosco', 'CMA'];
+Brno;null;null;[];
+Freetown;SLFNA;"Queen Elizabeth II Quay PMB 386 Cline Town FreetownSierra Leone\"\"";['cosco', 'safmarine'];['Abidjan', 'Monrovia', 'Yamoussoukro', 'Freetown', 'Conakry', 'Bissau', 'Bamako', 'Banjul', 'Dakar', 'Nouakchott']
+Singapore;SGSIN;460 Alexandra Road, #19-00 PSA Building, Singapore 119963, Singapore;['cosco', 'CMA', 'safmarine'];
+Ljublijana;null;null;['cosco', 'CMA'];
+Koper;SIKOP;Vojkovo nabrezje 38, Koper 6501, Slovenia;['cosco', 'CMA'];['Valletta', 'Tirana', 'Rome', 'Vatican City', 'Skopje', 'Podgorica', 'Pristina', 'Sarajevo', 'Belgrade', 'Zagreb', 'Ljubljana', 'Budapest', 'Bratislava', 'Vienna', 'Prague', 'Tunis', 'Monaco', 'San Marino', 'Geneva', 'Bern', 'Vaduz', 'Warsaw', 'Berlin', 'Luxembourg']
+Mogadishu;SOMGQ;PO Box 935, Mogadishu, Somalia;['CMA'];['Nairobi', 'Mogadishu', 'Addis Ababa', 'Hargeisa', 'Djibouti']
+Berbera;SOBBO;PO Box 935, Mogadishu, Somalia;['CMA'];['Mogadishu', 'Addis Ababa', 'Hargeisa', 'Djibouti', 'Asmara', 'Sanaa']
+Richards;ZARCB;P O Box 181, Richards Bay 3900, South Africa;['CMA', 'Hapag'];['Maseru', 'Bloemfontein', 'Lobamba', 'Mbabane', 'Johannesburg', 'Pretoria', 'Gaborone', 'Maputo']
+Durban;ZADUR;P O Box 1027, Durban 4000, South Africa;['CMA', 'Hapag'];['Maseru', 'Bloemfontein', 'Lobamba', 'Mbabane', 'Johannesburg', 'Pretoria', 'Gaborone', 'Maputo']
+Cape;ZACPT;P O Box 4245 \Cape Town, Roggebaai 8000 South Africa;['cosco', 'CMA', 'Hapag'];['Cape Town', 'Bloemfontein']
+Zaragoza;null;Carretera de Cogullada 65, Mercazaragoza, Calle M, 50014 Zaragoza;['cosco', 'CMA', 'safmarine'];
+Valencia;ESVLC;Avda. del Muelle del Turia, s/n, Valencia 46024, Spain;[];['Casablanca', 'Rabat', 'Algiers', 'Lisbon', 'Madrid', 'Andorra', 'Monaco', 'Geneva', 'Paris']
+Port-of-Spain;TTPOS;Administrative Building, 1 Dock Road, Port of Spain, Trinidad and Tobago;['CMA'];"\"['Paramaribo', 'Georgetown', 'Caracas', 'Port-of-Spain', \"\"Saint George's\"\", 'Bridgetown', 'Kingstown', 'Castries', 'Roseau', \"\"Saint John's\"\", 'Basseterre']\""
+Bilbao;ESBIO;Muelle de la Ampliacion Santurtzi, Bizkaia 48980 Spain;['maersk', 'cosco', 'safmarine', 'CMA', 'Hapag'];['Algiers', 'Lisbon', 'Madrid', 'Andorra', 'Geneva', 'Paris', 'London']
+Barcelona;ESBCN;"\"\"\"World Trade Center Barcelona wharf Barcelona 08039 Spain\"\"\"";['CMA', 'cosco', 'safmarine', 'Hapag'];['Algiers', 'Tunis', 'Madrid', 'Andorra', 'Monaco', 'Geneva', 'Bern', 'Vaduz', 'Paris', 'Luxembourg', 'Brussels']
+Algeciras;ESALG;Paseo de la Conferencia, s/n, Algeciras 11207, Spain;['CMA', 'cosco', 'safmarine', 'Hapag'];['Casablanca', 'Rabat', 'Algiers', 'Lisbon', 'Madrid', 'Andorra']
+Hambantota;LKHBA;"Level 08, &quot;Sayurupaya&quot;, Mirijjawila, Hambantota, Sri Lanka";['cosco', 'CMA', 'safmarine'];
+Colombo;LKCMB;No. 19, Chaithya Road, P. O. Box 59, Colombo 01, Sri Lanka;['CMA', 'safmarine'];['Sri Jayawardenepura Kotte', 'Colombo', 'Malé', 'Bengaluru']
+Juba;null;Juba, Central Equatoria State;['CMA', 'maersk'];
+Khartoum;null;null;['CMA', 'maersk'];
+Port;SDPZU;Port Sudan, Sudan;['CMA', 'maersk'];['Djibouti', 'Asmara', 'Sanaa', 'Khartoum']
+Gavle;null;Fredriksskans, Gavle 805 95, Sweden;['cosco', 'CMA', 'safmarine'];
+Helsingborg;null;Box 821, Helsingborg 251 08, Sweden;['cosco', 'CMA', 'safmarine'];
+Malmo;null;Terminalgatan 18, Box 566, Malmo 201 25, Sweden;['cosco', 'CMA', 'safmarine'];
+Stockholm;SESTO;Magasin 3, Frihamnen, P.O. Box 27314, Stockholm 102 54, Sweden;['cosco', 'CMA', 'safmarine'];['Prague', 'Warsaw', 'Berlin', 'Vilnius', 'København', 'Riga', 'Stockholm', 'Tallinn', 'Helsinki', 'Oslo']
+Gothenburg;SEGOT;"\"\"\"Gothenburg Port Authority Amerikaskjulet Emigrantvägen 2 B SE-414 63 Gothenburg\"\"\"";['CMA', 'cosco', 'safmarine'];
+Geneva;null;Route du Grand-Lancy 6a, 1211 Genève, Switzerland;['cosco', 'safmarine'];
+Zurich;null;null;['cosco', 'safmarine'];
+Basel;null;Hochbergerstrasse 160, Basel CH-4019, Switzerland;['cosco', 'safmarine'];
+Basle;null;Hochbergerstrasse 160, Basel CH-4019, Switzerland;['cosco', 'safmarine'];
+Bern;null;null;['cosco', 'safmarine'];
+Tartous;null;BP 86, Tartous, Syria;['cosco', 'CMA'];
+Latakia;SYLTK;P.O.Box 220, Baghdad street, Lattakia, Syria,;['cosco', 'CMA'];
+Keelung;TWKEL;No.1, Chung-Cheng Road, Keelung, Taiwan;['cosco', 'CMA', 'safmarine'];['Baguio', 'Hong Kong', 'Taipei', 'Shanghai']
+Kaohsiung;TWKHH;No. 62 Linhai 2nd Road. Gushan District, Kaohsiung, Taiwan;['cosco', 'CMA', 'safmarine'];['Manila', 'Baguio', 'Hong Kong', 'Taipei', 'Shanghai']
+Dushanbe;null;null;[];
+Kilimanjaro;null;null;['CMA', 'safmarine'];
+Zanzibar;TZZNZ;P.O. Box 263, Zanzibar, Tanzania;['CMA', 'safmarine'];['Lilongwe', 'Moroni', 'Dar es Salaam', 'Dodoma', 'Nairobi', 'Kampala']
+Dar;TZDAR;Tanzania Ports Authority (TPA), P. O. Box 1130, Dar es Salaam, Tanzania;['CMA', 'safmarine'];['Lilongwe', 'Moroni', 'Dar es Salaam', 'Dodoma', 'Nairobi', 'Kampala']
+Sattahip;null;Sattahip Naval Base, 2002/1 Moo.2 Plutaluang, Sattahip, Chonburi 20180, Thailand;['CMA', 'cosco', 'safmarine'];
+Ranong;null;444 Tarua Road, Klongtoey, Bangkok 10110, Thailand;['CMA', 'cosco', 'safmarine'];
+Laem;THLCH;444 Tarua Road, Klongtoey, Bangkok 10110, Thailand;['cosco', 'CMA', 'safmarine'];['Kuala Lumpur', 'Phnom Penh', 'Bangkok', 'Yangon', 'Vientiane', 'Naypyidaw', 'Hanoi']
+Bangkok;THBMT;120 Suksawad Rd., Mu 2, Pak Khlong Bang Plakot, Phra Samut Chedi, Samutprakan 10290, Thailand;['CMA', 'cosco', 'safmarine'];
+Bangkok;null;null;['CMA', 'cosco', 'safmarine', 'Hapag'];
+Lome;TGLFW;PO Box 1225, Lome, Togo;['cosco', 'CMA'];['São Tomé', 'Malabo', 'Abidjan', 'Accra', 'Lomé', 'Cotonou', 'Lagos', 'Porto-Novo', 'Yamoussoukro', 'Abuja', 'Ouagadougou', 'Niamey']
+Sousse;null;Administrative building-2060, La Goulette 3029, Tunisia;['cosco', 'CMA'];
+Sfax;null;Administrative building-2060, La Goulette 3029, Tunisia;['cosco', 'CMA'];
+Tunis;null;Ave Dag Hammarskjoeld, Tunis, Tunisia;['cosco', 'CMA'];
+Bizerte;null;Administrative building-2060, La Goulette 3029, Tunisia;['cosco', 'CMA'];
+Haydarpasa;TRHAY;TCDD Liman Isletmesi Mudurlugu, Haydarpasa, Turkey;['CMA', 'cosco', 'safmarine', 'maersk'];['Beirut', 'Nicosia', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Ankara', 'Bucharest', 'Belgrade', 'Chi?in?u', 'Kyiv']
+Izmit;TRIZT;Mehmet Akif Ersoy Cad No 34, Yarimca, Kocaeli 41740, Turkey;['CMA', 'cosco', 'safmarine', 'maersk'];['Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Athens', 'Istanbul', 'Skopje', 'Pristina', 'Sofia', 'Ankara', 'Bucharest', 'Chi?in?u', 'Kyiv']
+Samsun;TRSSX;TCDD Liman Isletmesi Mudurlugu, Samsun 55100, Turkey;['CMA', 'cosco', 'safmarine', 'maersk'];['Jerusalem', 'Amman', 'Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Istanbul', 'Ankara', 'Yerevan', 'Tbilisi', 'Chi?in?u']
+Tekirdag;TRTEK;Barbaros Yolu Uzeri, Liman, Tekirdag, Turkey;['CMA', 'cosco', 'safmarine', 'maersk'];
+Aliaga(TRALI);TRALI;Kultur Mahallesi, Fevzipasa Cad No 10, Aliaga, Turkey;['CMA', 'cosco', 'safmarine', 'maersk'];
+Mersin;TRMER;TCDD Liman Isletmesi Mudurlugu, Mersin, Turkey;['cosco', 'CMA', 'maersk'];['Cairo', 'Jerusalem', 'Amman', 'Tel Aviv', 'Damascus', 'Beirut', 'Nicosia', 'Istanbul', 'Ankara']
+Izmir;TRIZM;Izmir Port, Umurbey Mahallesi, 35230 Konak/İzmir, Turkey;['cosco', 'CMA', 'maersk'];['Cairo', 'Tel Aviv', 'Beirut', 'Nicosia', 'Athens', 'Istanbul', 'Tirana', 'Skopje', 'Podgorica', 'Pristina', 'Sofia', 'Ankara', 'Bucharest', 'Belgrade', 'Chi?in?u']
+Istanbul;TRIST;Meclisi Mebusan Cad No 52, Salipazari,  Istanbul, Turkey;['cosco', 'CMA', 'maersk'];
+Iskenderun;TRISK;"\"\"\"TCDD Liman Isletmesi Mudurlugu Iskenderun Turkey\"\"\"";['cosco', 'CMA', 'maersk'];
+Gemlik;TRGEM;Kocacukur Mevkii, P.K. 101, Gemlik 16600, Turkey;[];
+Evyap;TREYP;Kirazlıyalı Mah., 1 Mayıs Cad. Evyap Liman Tesisleri D:1, 41780 Körfez/Kocaeli, Turkey;['cosco', 'CMA', 'maersk'];
+Ambarli;TRAMR;Ambarli Tesisleri, Angurya Ciftligi Mevkii Yakuplu-B Cekmece, Ambarli 34900, Turkey;['maersk', 'cosco', 'CMA', 'Hapag'];
+Turkmanbashi;null;Turkmanbashi, Turkmenistan;[];
+Entebbe;null;null;['CMA', 'safmarine'];
+Mbale;null;null;['CMA'];
+Kampala;null;null;['CMA'];
+Pivdennyi;null;Beregovaya str., 11, Yuzhnyi, Odessa region, 65481, Ukraine;[];
+Reni;null;188 Dunaiskaya str., Reni, Odessa Province 68802, Ukraine;['maersk', 'cosco', 'CMA', 'Hapag'];
+Ilyichevsk;null;6, Truda Sq., Ilyichevsk, Odessa region 68001, Ukraine;['maersk', 'cosco', 'CMA', 'Hapag'];
+Odessa;UAODS;1, Customs Sg. Odessa 65026, Ukraine;['maersk', 'cosco', 'CMA', 'Hapag'];['Istanbul', 'Sofia', 'Ankara', 'Bucharest', 'Chi?in?u', 'Kyiv', 'Minsk', 'Vilnius']
+Hulaylah;null;PO Box 434, State : Ras Al Khaimah;['maersk', 'cosco', 'CMA', 'safmarine'];
+Khalifa;null;PO Box 54477, Abu Dhabi, United Arab Emirates;['maersk', 'cosco', 'CMA', 'safmarine'];
+Ruwais;null;null;['maersk', 'cosco', 'CMA', 'safmarine'];
+Fujairah;AEFJR;Fujairah, Fujairah, United Arab Emirates;['maersk', 'cosco', 'CMA', 'safmarine'];
+Ajman;null;null;['maersk', 'cosco', 'CMA', 'safmarine'];
+Sharjah;null;P.O Box 510, Sharjah, United Arab Emirates;['maersk', 'cosco', 'CMA', 'safmarine'];
+Khor;AEKLF;P.O Box 510, Sharjah, United Arab Emirates;['maersk', 'cosco', 'CMA', 'safmarine'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City']
+Jebel;AEJEA;PO Box 17000, Dubai, United Arab Emirates;['maersk', 'cosco', 'CMA', 'safmarine'];['Muscat', 'Abu Dhabi', 'Riyadh', 'Dubai', 'Doha', 'Manama', 'Kuwait City']
+Abu;null;Department of Port & Customs Ajman P.O. Box 388, Ajman United Arab Emirates;['cosco', 'safmarine', 'CMA', 'maersk', 'Hapag'];
+Southampton;GBSOU;Ocean Gate, Atlantic Way, Southampton SO14 3QN, United Kingdom;['cosco', 'CMA', 'Hapag'];
+London;GBLGP;null;['cosco', 'CMA', 'Hapag'];
+Felixstowe;GBFXT;Tomline House, The Dock, Felixstowe, Suffolk IP11 3SY, United Kingdom;['CMA', 'Hapag'];
+Tacoma;USTIW;One Sitcum Plaza, Tacoma, WA 98421, United States;['cosco', 'safmarine', 'Hapag'];['San Francisco', 'Vancouver']
+Seattle;USSEA;2711 Alaskan Way, Seattle, WA 98121, United States;['cosco', 'safmarine', 'Hapag'];['San Francisco', 'Vancouver']
+Savannah;USSAV;P.O. Box 2406, Savannah, GA 31402, United States;['cosco', 'safmarine', 'Hapag'];
+Philadelphia;USPHL;3460 N. Delaware Avenue, Philadelphia, PA 19134, United States;['cosco', 'safmarine', 'Hapag'];
+Norfolk;null;Address is 15070 Sundew Drive, Carrollton, VA, United States;['cosco', 'safmarine', 'Hapag'];
+Newark;null;241 Calcutta St, Newark, NJ 07114;['cosco', 'safmarine', 'Hapag'];
+New;USNYC;225 Park Avenue South, New York, NY 10003,United States;['cosco', 'safmarine', 'Hapag'];
+Minneapolis;null;350 South Fifth Street, Minneapolis, MN 55415, United States;['cosco', 'safmarine', 'Hapag'];
+Los;USLAX;425 S. Palos Verdes St., San Pedro, CA 90731, United States;['cosco', 'Hapag'];['Los Angeles', 'San Francisco']
+Long;USLGB;925 Harbor Plaza, P.O. Box 570, Long Beach, CA 90801-0570, United States;['cosco', 'safmarine', 'Hapag'];['Los Angeles', 'San Francisco']
+HOUSTON;USHOU;111 East Loop North (77029), P.O. Box 2562 (77252-2562), Houston, TX 77252-2562, United States;['cosco', 'safmarine', 'Hapag'];
+Chicago;Inland;3600 East 95th Street, Chicago, IL 60617, United States;['cosco', 'safmarine', 'Hapag'];
+Charleston(USCHS);USCHS;176 Concord Street, Charleston, SC 29401, United States;['cosco', 'safmarine', 'Hapag'];
+Florida;null;null;['maersk', 'cosco', 'CMA', 'Hapag'];
+Nueva;null;Ruta 12 Km 0, Nueva Palmira, Uruguay;['maersk', 'cosco', 'CMA', 'Hapag'];
+Montevideo;UYMVD;Main Building: NÃ½ 160 Rambla 25 de Agosto de 1825, Montevideo, Uruguay;['maersk', 'cosco', 'CMA', 'Hapag'];['Montevideo', 'Buenos Aires', 'Asunción']
+Tashkent;null;null;[];
+Puerto;null;Final Calle Puerto Cabello, Edif IPAPC, piso 6, Puerto Cabello, Edo Carabobo, Venezuela;['cosco'];
+La;null;Terminal Maritimo, Dr. Jose Maria Vargas, Av. Soublette, La Guaira, Estado Vargas, Venezuela;['cosco'];
+Maracaibo;null;Av 2 El Milagro, Maracaibo, Edo. Zulia, Venezuela;['cosco'];
+Ho;VNSGN;"\"\"\"End of Dien Bien Phu street";ward 22;
+Haiphong;VNHPH;"8A Tran Phu street Hai Phong city Vietnam\"\"";['cosco', 'safmarine', 'Hapag', 'maersk', 'CMA'];
+Da;VNDAD;26 Bach Dang St., Da Nang, Vietnam;['cosco', 'safmarine', 'CMA', 'maersk', 'Hapag'];
+Cat;VNCLI;Street Nguyễn Thị Định, Cát Lái Ward, District 2, TP. Ho Chi Minh, Vietnam.;['cosco', 'safmarine', 'CMA', 'maersk', 'Hapag'];
+Aden;YEADE;1316 Tawahi, Aden, Yemen;['CMA', 'cosco', 'safmarine', 'Hapag'];['Addis Ababa', 'Hargeisa', 'Djibouti', 'Asmara', 'Sanaa']
+Lusaka(ZMLUN);ZMLUN;null;['cosco'];
+Port;null;null;['cosco'];
+Kariba;null;null;['cosco'];
+Binga;null;null;[];
+Chala;null;null;[];

@@ -1,0 +1,507 @@
+date;hs_code;shipper_name;std_unit;std_quantity;value_fob_usd;items_number;source_port;source_country;destination_port;destination_country
+17/06/2022;87042313;jany strosin;KGS;1;6548.21;1;ITALB;Italy;JOZAR;Jordan
+22/06/2022;87042323;cristobal brown;KGS;1;64880.18;1;DEASH;Germany;JOAQB;Jordan
+06/06/2022;87042321;nick connelly;KGS;1;71059.25;1;DEANS;Germany;AEKHA;United Arab Emirates
+06/06/2022;87042311;alda reilly;KGS;1;69005.27;1;ITALI;Italy;AEJYH;United Arab Emirates
+03/06/2022;87042313;anderson crooks;KGS;1;69612.90;1;BEANL;Belgium;AEPRA;United Arab Emirates
+04/06/2022;87042313;birdie sipes;KGS;1;72308.76;1;DEATB;Germany;AEJED;United Arab Emirates
+01/06/2022;87042322;gregg collier;KGS;1;69373.27;1;BEADU;Belgium;JOAMM;Jordan
+24/06/2022;87042310;davonte turcotte;KGS;1;72702.44;1;BEATH;Belgium;JOZAR;Jordan
+15/06/2022;87042329;rubie macejkovic;KGS;1;70092.17;1;DEAHA;Germany;AEDHF;United Arab Emirates
+12/06/2022;87042320;blake leannon;KGS;1;71701.12;1;BEABC;Belgium;JOAMM;Jordan
+06/06/2022;87042313;keven christiansen;KGS;1;67190.92;1;BEAQE;Belgium;AEKHA;United Arab Emirates
+07/06/2022;87042319;daren dicki;KGS;1;68748.52;1;DEANU;Germany;JOAQJ;Jordan
+24/06/2022;87042310;adrain reichel;KGS;1;69073.73;1;BEACE;Belgium;AEKHA;United Arab Emirates
+18/06/2022;87042321;roosevelt von;KGS;1;64982.88;1;ITATO;Italy;AEKLF;United Arab Emirates
+30/06/2022;87042322;alphonso torp;KGS;1;69356.16;1;BEBEL;Belgium;AERUW;United Arab Emirates
+15/06/2022;87042323;pink prosacco;KGS;1;68517.45;1;BEBEL;Belgium;AEJYH;United Arab Emirates
+11/06/2022;87042310;jeremy murphy;KGS;1;66788.68;1;ITAGO;Italy;AEMKH;United Arab Emirates
+14/06/2022;87042323;agustin vonrueden;KGS;1;69441.74;1;BEBAL;Belgium;AEAAN;United Arab Emirates
+08/06/2022;87042313;zane treutel;KGS;1;70485.85;1;DEALP;Germany;JOMPQ;Jordan
+24/06/2022;87042329;monserrat torphy;KGS;1;69647.14;1;ITAVL;Italy;AEIND;United Arab Emirates
+08/06/2022;87042320;annabell bahringer;KGS;1;71170.51;1;DEADS;Germany;JOAMM;Jordan
+10/06/2022;87042320;alessandro kihn;KGS;1;70083.61;1;BEBAR;Belgium;AEJYH;United Arab Emirates
+19/06/2022;87042321;carroll glover;KGS;1;64366.69;1;ITASM;Italy;JOAQJ;Jordan
+30/06/2022;87042319;santina zieme;KGS;1;64477.95;1;DEAUR;Germany;AESHJ;United Arab Emirates
+01/06/2022;87042321;gilberto bogan;KGS;1;71067.81;1;ITAGI;Italy;JOZAR;Jordan
+14/06/2022;87042321;zaria haley;KGS;1;72094.80;1;ITAVL;Italy;JOZAR;Jordan
+14/06/2022;87042321;brett torphy;KGS;1;69989.47;1;DEASB;Germany;AEMKH;United Arab Emirates
+16/06/2022;87042321;daren gorczany;KGS;1;66454.90;1;BEACS;Belgium;JOAQJ;Jordan
+07/06/2022;87042319;alycia mante;KGS;1;71684.00;1;BEBCR;Belgium;AEARZ;United Arab Emirates
+01/06/2022;87042313;raul balistreri;KGS;1;68996.71;1;DEAAS;Germany;JOMPQ;Jordan
+09/06/2022;87042319;leone considine;KGS;1;66668.86;1;BEADO;Belgium;JOAQB;Jordan
+18/06/2022;87042313;roxanne hyatt;KGS;1;68945.36;1;BEAAR;Belgium;AEAAN;United Arab Emirates
+14/06/2022;87042313;gabriel bode;KGS;1;64597.76;1;BEAAL;Belgium;AEDBP;United Arab Emirates
+01/06/2022;87042329;selina gottlieb;KGS;1;72548.39;1;BEAAR;Belgium;JOQIR;Jordan
+09/06/2022;87042319;virgie nolan;KGS;1;66240.95;1;ITASS;Italy;JOQIR;Jordan
+05/06/2022;87042319;crystal howell;KGS;1;71435.81;1;DEADO;Germany;JOZAR;Jordan
+20/06/2022;87042311;prince nienow;KGS;1;72094.80;1;DEATB;Germany;AEAAN;United Arab Emirates
+12/06/2022;87042329;fernando bailey;KGS;1;70075.05;1;DEASH;Germany;AEMSA;United Arab Emirates
+07/06/2022;87042322;cleora tillman;KGS;1;69647.14;1;ITASL;Italy;JOAMM;Jordan
+09/06/2022;87042313;baylee torphy;KGS;1;68072.42;1;BEANE;Belgium;AEAUH;United Arab Emirates
+27/06/2022;87042329;aracely schroeder;KGS;1;68560.24;1;DEALG;Germany;JOAQB;Jordan
+23/06/2022;87042313;hettie roob;KGS;1;69441.74;1;DEAHM;Germany;AEHAM;United Arab Emirates
+26/06/2022;87042311;dalton schmeler;KGS;1;65487.82;1;DEASG;Germany;AEFJR;United Arab Emirates
+27/06/2022;87042313;ardith kuhic;KGS;1;67122.45;1;BEAGT;Belgium;JOQIR;Jordan
+20/06/2022;87042310;jeromy senger;KGS;1;65128.37;1;DEAUG;Germany;JOQIR;Jordan
+18/06/2022;87042323;wade bartell;KGS;1;66292.30;1;BEABE;Belgium;JOZAR;Jordan
+23/06/2022;87042323;allison botsford;KGS;1;67867.02;1;BEAPE;Belgium;AEFMZ;United Arab Emirates
+28/06/2022;87042323;lavina flatley;KGS;1;66763.00;1;DEAMS;Germany;JOZAR;Jordan
+17/06/2022;87042320;neoma lakin;KGS;1;68936.80;1;BEAUG;Belgium;AEARZ;United Arab Emirates
+08/06/2022;87042319;kane gleason;KGS;1;64400.92;1;DEAMM;Germany;JOAQB;Jordan
+06/06/2022;87042329;briana kub;KGS;1;69475.97;1;BEAIS;Belgium;JOZAR;Jordan
+14/06/2022;87042310;sammie pacocha;KGS;1;67610.27;1;BEALI;Belgium;AEFMZ;United Arab Emirates
+18/06/2022;87042319;gloria abbott;KGS;1;66429.23;1;ITATR;Italy;AEFJR;United Arab Emirates
+08/06/2022;87042321;celia luettgen;KGS;1;64212.64;1;ITANO;Italy;AEMAS;United Arab Emirates
+05/06/2022;87042329;daryl bechtelar;KGS;1;69073.73;1;BEAQE;Belgium;AEIND;United Arab Emirates
+08/06/2022;87042311;palma morissette;KGS;1;72094.80;1;DEAMU;Germany;JOQIR;Jordan
+20/06/2022;87042311;randy heaney;KGS;1;65872.94;1;ITAVZ;Italy;JOAMM;Jordan
+10/06/2022;87042310;queen trantow;KGS;1;66857.14;1;BEASB;Belgium;JOAQB;Jordan
+06/06/2022;87042313;princess reilly;KGS;1;70751.15;1;BEAAS;Belgium;AERKT;United Arab Emirates
+26/06/2022;87042311;wilber yost;KGS;1;72154.71;1;BEABK;Belgium;AEMUB;United Arab Emirates
+23/06/2022;87042313;kasandra nitzsche;KGS;1;67687.29;1;DEABS;Germany;JOAMM;Jordan
+19/06/2022;87042329;bertrand wiegand;KGS;1;71127.72;1;DEASH;Germany;JOMPQ;Jordan
+04/06/2022;87042313;lempi stark;KGS;1;65042.79;1;ITAMA;Italy;AERUW;United Arab Emirates
+15/06/2022;87042311;cullen mayert;KGS;1;66711.65;1;ITAMS;Italy;AEDBP;United Arab Emirates
+11/06/2022;87042311;tierra hansen;KGS;1;69604.34;1;BEBDU;Belgium;AEDXB;United Arab Emirates
+10/06/2022;87042321;niko walker;KGS;1;65410.80;1;ITALO;Italy;JOQIR;Jordan
+19/06/2022;87042321;aiden abshire;KGS;1;68945.36;1;BEAES;Belgium;JOAMM;Jordan
+04/06/2022;87042313;payton hettinger;KGS;1;65718.89;1;DEADO;Germany;AEKLF;United Arab Emirates
+10/06/2022;87042323;brandi kozey;KGS;1;64666.23;1;BEAAS;Belgium;JOQIR;Jordan
+15/06/2022;87042310;idell tillman;KGS;1;70622.78;1;BEAFN;Belgium;AEAAN;United Arab Emirates
+21/06/2022;87042329;marc schimmel;KGS;1;66959.84;1;ITALM;Italy;AEHAM;United Arab Emirates
+24/06/2022;87042319;vincenzo macgyver;KGS;1;65761.69;1;DEALM;Germany;JOAQB;Jordan
+17/06/2022;87042321;keara lueilwitz;KGS;1;64922.98;1;BEBCN;Belgium;AEMKH;United Arab Emirates
+10/06/2022;87042321;freddy veum;KGS;1;71992.10;1;ITASS;Italy;AEIND;United Arab Emirates
+19/06/2022;87042319;raymond prohaska;KGS;1;67961.16;1;DEASU;Germany;AEQIW;United Arab Emirates
+25/06/2022;87042320;lysanne pfannerstill;KGS;1;65385.12;1;BEANS;Belgium;AEMSA;United Arab Emirates
+14/06/2022;87042329;luther kautzer;KGS;1;69741.28;1;BEADU;Belgium;JOMPQ;Jordan
+15/06/2022;87042321;harold baumbach;KGS;1;70520.08;1;BEANE;Belgium;AEZUR;United Arab Emirates
+30/06/2022;87042320;madge ullrich;KGS;1;72274.52;1;ITASP;Italy;JOAMM;Jordan
+18/06/2022;87042329;webster cassin;KGS;1;69912.44;1;DEADF;Germany;JOMPQ;Jordan
+25/06/2022;87042321;jaquan torp;KGS;1;64871.63;1;BEBEA;Belgium;JOQIR;Jordan
+26/06/2022;87042313;minnie bartoletti;KGS;1;67858.46;1;DEAHL;Germany;JOMPQ;Jordan
+30/06/2022;87042322;forrest rau;KGS;1;69398.95;1;ITANZ;Italy;AEIND;United Arab Emirates
+28/06/2022;87042322;javonte kautzer;KGS;1;68962.48;1;ITARS;Italy;JOAQJ;Jordan
+25/06/2022;87042311;jayde sipes;KGS;1;67849.90;1;BEASP;Belgium;AENHD;United Arab Emirates
+04/06/2022;87042320;berenice fay;KGS;1;72676.76;1;BEBEH;Belgium;AEJEA;United Arab Emirates
+21/06/2022;87042323;rashad hamill;KGS;1;68885.45;1;DEARG;Germany;AEIND;United Arab Emirates
+01/06/2022;87042322;trisha crona;KGS;1;69193.55;1;DEABF;Germany;AESHJ;United Arab Emirates
+19/06/2022;87042329;marlen welch;KGS;1;69946.68;1;ITASS;Italy;AEDAS;United Arab Emirates
+07/06/2022;87042313;adelbert johnson;KGS;1;71974.98;1;BEBCI;Belgium;AENHD;United Arab Emirates
+04/06/2022;87042320;waldo swaniawski;KGS;1;65744.57;1;ITALR;Italy;JOAMM;Jordan
+30/06/2022;87042313;charley dubuque;KGS;1;66600.39;1;ITAVL;Italy;AERUW;United Arab Emirates
+05/06/2022;87042313;sebastian price;KGS;1;66104.02;1;BEAIS;Belgium;JOAQB;Jordan
+06/06/2022;87042320;esta moore;KGS;1;66189.60;1;ITAPZ;Italy;AEKHA;United Arab Emirates
+01/06/2022;87042323;walton macgyver;KGS;1;65462.15;1;BEBCR;Belgium;AEFAT;United Arab Emirates
+12/06/2022;87042310;saige dicki;KGS;1;72257.41;1;BEBCI;Belgium;AEMKH;United Arab Emirates
+28/06/2022;87042322;boris macejkovic;KGS;1;64512.18;1;DEAAL;Germany;AEAJM;United Arab Emirates
+24/06/2022;87042311;maverick harvey;KGS;1;71016.46;1;BEART;Belgium;JOMPQ;Jordan
+14/06/2022;87042321;elenora herman;KGS;1;65119.82;1;BEAME;Belgium;AEKHA;United Arab Emirates
+16/06/2022;87042313;kacey wolf;KGS;1;69818.30;1;BEAGI;Belgium;AEQIW;United Arab Emirates
+01/06/2022;87042321;maiya pfeffer;KGS;1;68808.43;1;ITASP;Italy;JOQIR;Jordan
+07/06/2022;87042311;eleanora simonis;KGS;1;64306.78;1;ITAVZ;Italy;AEAJM;United Arab Emirates
+23/06/2022;87042320;kenya schroeder;KGS;1;67293.61;1;ITAGI;Italy;AEFJR;United Arab Emirates
+26/06/2022;87042310;patrick bogisich;KGS;1;67208.03;1;ITAPO;Italy;JOAMM;Jordan
+20/06/2022;87042320;gerry oberbrunner;KGS;1;67841.34;1;DEAAH;Germany;JOQIR;Jordan
+30/06/2022;87042311;timmy kirlin;KGS;1;69441.74;1;DEAGT;Germany;AEFJR;United Arab Emirates
+16/06/2022;87042323;bella klocko;KGS;1;68192.23;1;DEAST;Germany;JOQIR;Jordan
+30/06/2022;87042329;lester towne;KGS;1;70776.83;1;BEBEI;Belgium;JOMPQ;Jordan
+22/06/2022;87042311;micah klocko;KGS;1;67678.74;1;BEBCO;Belgium;JOAMM;Jordan
+04/06/2022;87042322;luigi sawayn;KGS;1;65753.13;1;ITACD;Italy;JOZAR;Jordan
+17/06/2022;87042311;dawson kessler;KGS;1;67113.89;1;DEALE;Germany;JOMPQ;Jordan
+30/06/2022;87042323;orion reynolds;KGS;1;65479.26;1;ITAZZ;Italy;JOAMM;Jordan
+08/06/2022;87042313;lenora kuphal;KGS;1;71589.86;1;DEARB;Germany;AERUW;United Arab Emirates
+14/06/2022;87042313;jamir boyer;KGS;1;69921.00;1;DEASD;Germany;JOAQB;Jordan
+30/06/2022;87042323;robbie hilll;KGS;1;68731.40;1;BEAST;Belgium;JOZAR;Jordan
+05/06/2022;87042321;jailyn dicki;KGS;1;65179.72;1;BEANH;Belgium;AEDUY;United Arab Emirates
+05/06/2022;87042321;dwight hauck;KGS;1;69681.37;1;ITACC;Italy;JOAQB;Jordan
+02/06/2022;87042310;rogelio wolf;KGS;1;68414.75;1;DEADO;Germany;AEABU;United Arab Emirates
+21/06/2022;87042322;d'angelo fahey;KGS;1;66925.61;1;DEAKT;Germany;JOMPQ;Jordan
+30/06/2022;87042323;carissa pouros;KGS;1;69595.79;1;BEBCT;Belgium;AEMAS;United Arab Emirates
+06/06/2022;87042321;damion bergnaum;KGS;1;66848.58;1;DEALN;Germany;JOMPQ;Jordan
+05/06/2022;87042320;jakob bartell;KGS;1;68149.44;1;DEAPP;Germany;JOAQJ;Jordan
+22/06/2022;87042311;cooper marquardt;KGS;1;70639.89;1;ITAVA;Italy;AEDAS;United Arab Emirates
+01/06/2022;87042321;ova wuckert;KGS;1;72197.50;1;BEADK;Belgium;AENHD;United Arab Emirates
+23/06/2022;87042321;harmon reichel;KGS;1;72539.83;1;ITACU;Italy;JOAQJ;Jordan
+25/06/2022;87042320;hubert oberbrunner;KGS;1;69441.74;1;DEAST;Germany;AEHAM;United Arab Emirates
+30/06/2022;87042311;marjorie ebert;KGS;1;67567.48;1;BEABY;Belgium;AEMAS;United Arab Emirates
+27/06/2022;87042310;josefa will;KGS;1;69048.06;1;ITAOI;Italy;AEIND;United Arab Emirates
+21/06/2022;87042319;hester zulauf;KGS;1;67225.15;1;BEAWS;Belgium;JOZAR;Jordan
+10/06/2022;87042321;myrna torp;KGS;1;71709.68;1;ITAVZ;Italy;JOAQB;Jordan
+18/06/2022;87042310;maximo torphy;KGS;1;69184.99;1;ITACR;Italy;JOZAR;Jordan
+03/06/2022;87042323;corene volkman;KGS;1;70477.29;1;DEADF;Germany;JOZAR;Jordan
+18/06/2022;87042323;loma senger;KGS;1;71367.35;1;ITAGN;Italy;AEDUY;United Arab Emirates
+29/06/2022;87042323;jeramy cartwright;KGS;1;72608.29;1;ITALE;Italy;AEDBP;United Arab Emirates
+25/06/2022;87042323;edwin abernathy;KGS;1;69869.65;1;ITASI;Italy;AEZUR;United Arab Emirates
+21/06/2022;87042321;jacey purdy;KGS;1;71059.25;1;ITALB;Italy;AESHJ;United Arab Emirates
+16/06/2022;87042321;sylvia bode;KGS;1;71238.97;1;DEAPE;Germany;AEKLF;United Arab Emirates
+12/06/2022;87042322;audreanne hermann;KGS;1;64554.97;1;DEACM;Germany;JOMPQ;Jordan
+04/06/2022;87042329;marlene emard;KGS;1;66317.97;1;DEAHR;Germany;JOMPQ;Jordan
+08/06/2022;87042319;adriana paucek;KGS;1;69048.06;1;ITASI;Italy;AEMKH;United Arab Emirates
+01/06/2022;87042311;domenic moore;KGS;1;66317.97;1;BEBCS;Belgium;JOAQJ;Jordan
+29/06/2022;87042320;felipa miller;KGS;1;68988.15;1;DEANB;Germany;JOQIR;Jordan
+06/06/2022;87042322;kolby jakubowski;KGS;1;70417.38;1;BEANS;Belgium;JOAMM;Jordan
+08/06/2022;87042320;rebeca hoppe;KGS;1;69604.34;1;BEARO;Belgium;AEULR;United Arab Emirates
+14/06/2022;87042313;hildegard wisozk;KGS;1;68979.59;1;DEALF;Germany;AEMBS;United Arab Emirates
+09/06/2022;87042329;torrey lubowitz;KGS;1;65119.82;1;ITAIL;Italy;JOAQJ;Jordan
+26/06/2022;87042321;samson barrows;KGS;1;67584.60;1;BEABO;Belgium;JOZAR;Jordan
+07/06/2022;87042313;michele larson;KGS;1;66728.77;1;DEAPP;Germany;AEJED;United Arab Emirates
+26/06/2022;87042329;robyn schmidt;KGS;1;65248.19;1;BEAMO;Belgium;AERKT;United Arab Emirates
+13/06/2022;87042323;peter waters;KGS;1;72633.97;1;DEABS;Germany;JOAQB;Jordan
+15/06/2022;87042320;jameson mertz;KGS;1;70870.97;1;BEAMO;Belgium;AEMZD;United Arab Emirates
+16/06/2022;87042320;leonor ward;KGS;1;64281.11;1;ITALI;Italy;JOAQB;Jordan
+19/06/2022;87042323;rylan wisozk;KGS;1;67353.52;1;ITALM;Italy;AEMAS;United Arab Emirates
+03/06/2022;87042319;woodrow rohan;KGS;1;65984.20;1;ITABG;Italy;JOAQJ;Jordan
+04/06/2022;87042319;eugene will;KGS;1;72651.09;1;DEADF;Germany;JOAQB;Jordan
+30/06/2022;87042320;cydney stracke;KGS;1;64631.99;1;BEBBX;Belgium;JOMPQ;Jordan
+17/06/2022;87042322;euna carter;KGS;1;69142.20;1;ITAVZ;Italy;AEARZ;United Arab Emirates
+12/06/2022;87042322;kenton gottlieb;KGS;1;70220.54;1;BEBCE;Belgium;JOAQJ;Jordan
+26/06/2022;87042311;ally walsh;KGS;1;67199.47;1;ITARZ;Italy;AEAJM;United Arab Emirates
+29/06/2022;87042320;geo toy;KGS;1;68106.65;1;BEANE;Belgium;AEJED;United Arab Emirates
+24/06/2022;87042310;alyce parker;KGS;1;67447.66;1;ITASP;Italy;JOAMM;Jordan
+12/06/2022;87042319;rex gerhold;KGS;1;68038.18;1;DEAFT;Germany;JOAMM;Jordan
+04/06/2022;87042323;laila stehr;KGS;1;67404.87;1;ITAMS;Italy;JOAQJ;Jordan
+11/06/2022;87042320;oceane wuckert;KGS;1;70699.80;1;ITARC;Italy;JOAQB;Jordan
+29/06/2022;87042321;marge muller;KGS;1;72360.11;1;BEBDI;Belgium;JOMPQ;Jordan
+20/06/2022;87042322;gage fahey;KGS;1;71615.54;1;BEAAS;Belgium;JOZAR;Jordan
+28/06/2022;87042329;haylee christiansen;KGS;1;71820.93;1;DEAMO;Germany;JOZAR;Jordan
+08/06/2022;87042321;mallie tromp;KGS;1;65590.52;1;DEADN;Germany;AEMKH;United Arab Emirates
+17/06/2022;87042313;clemmie schmidt;KGS;1;68996.71;1;DEABT;Germany;AEHAM;United Arab Emirates
+11/06/2022;87042310;gerard gerlach;KGS;1;67961.16;1;ITAPA;Italy;JOZAR;Jordan
+02/06/2022;87042319;crystal kihn;KGS;1;64837.39;1;ITARL;Italy;JOAMM;Jordan
+11/06/2022;87042322;edythe corwin;KGS;1;68996.71;1;BEBAL;Belgium;JOAQB;Jordan
+02/06/2022;87042319;curt gerlach;KGS;1;65581.96;1;DEAHD;Germany;JOQIR;Jordan
+16/06/2022;87042311;hollis lesch;KGS;1;64777.49;1;ITARL;Italy;AEMZD;United Arab Emirates
+01/06/2022;87042323;merritt leffler;KGS;1;69707.04;1;DEAUR;Germany;JOQIR;Jordan
+29/06/2022;87042313;darren larson;KGS;1;72368.66;1;DEAMM;Germany;JOAQB;Jordan
+20/06/2022;87042311;gerhard mohr;KGS;1;64863.07;1;DEAIL;Germany;AEPRA;United Arab Emirates
+15/06/2022;87042319;allie lebsack;KGS;1;64640.55;1;DEALN;Germany;AEJED;United Arab Emirates
+11/06/2022;87042322;bernita beahan;KGS;1;69450.30;1;BEADI;Belgium;JOAMM;Jordan
+25/06/2022;87042329;ransom hessel;KGS;1;64366.69;1;BEBAS;Belgium;AEKLF;United Arab Emirates
+02/06/2022;87042313;marjorie hand;KGS;1;67447.66;1;ITARO;Italy;AEKLF;United Arab Emirates
+09/06/2022;87042313;mariela maggio;KGS;1;66531.93;1;ITAVL;Italy;AEABU;United Arab Emirates
+02/06/2022;87042321;kiera leuschke;KGS;1;72702.44;1;ITASO;Italy;JOZAR;Jordan
+18/06/2022;87042319;lacey barrows;KGS;1;67430.55;1;ITAVI;Italy;AEFMZ;United Arab Emirates
+30/06/2022;87042311;larry collier;KGS;1;67798.55;1;ITAST;Italy;JOAQJ;Jordan
+01/06/2022;87042321;enid rau;KGS;1;64726.14;1;ITACE;Italy;JOMPQ;Jordan
+02/06/2022;87042320;lucy tremblay;KGS;1;69030.94;1;ITAKD;Italy;AEAUH;United Arab Emirates
+11/06/2022;87042311;cassandre bailey;KGS;1;70605.66;1;ITARE;Italy;JOQIR;Jordan
+16/06/2022;87042319;jevon treutel;KGS;1;71153.39;1;ITATX;Italy;JOMPQ;Jordan
+16/06/2022;87042319;aylin kling;KGS;1;71581.30;1;ITACD;Italy;AERUW;United Arab Emirates
+27/06/2022;87042321;itzel hand;KGS;1;69963.79;1;DEAOR;Germany;AEZUR;United Arab Emirates
+22/06/2022;87042323;tyson williamson;KGS;1;72214.61;1;DEAIC;Germany;JOQIR;Jordan
+25/06/2022;87042321;stefanie roberts;KGS;1;69715.60;1;BEAFN;Belgium;AERUW;United Arab Emirates
+12/06/2022;87042313;jadon wilkinson;KGS;1;66968.40;1;BEAMY;Belgium;JOAMM;Jordan
+03/06/2022;87042322;aimee bins;KGS;1;69039.50;1;ITAMA;Italy;JOZAR;Jordan
+24/06/2022;87042329;earnestine fay;KGS;1;71444.37;1;DEALZ;Germany;AEPRA;United Arab Emirates
+12/06/2022;87042313;ewald stark;KGS;1;69561.55;1;BEANR;Belgium;JOAQJ;Jordan
+15/06/2022;87042320;zoey schiller;KGS;1;71786.70;1;ITAOT;Italy;JOAMM;Jordan
+10/06/2022;87042329;bettye torphy;KGS;1;71444.37;1;BEARS;Belgium;JOQIR;Jordan
+17/06/2022;87042311;krystina hackett;KGS;1;67558.92;1;ITALE;Italy;JOAMM;Jordan
+12/06/2022;87042319;ruben ledner;KGS;1;68568.80;1;ITASO;Italy;AEKLF;United Arab Emirates
+10/06/2022;87042321;ted barrows;KGS;1;69424.62;1;BEBBG;Belgium;JOAQB;Jordan
+20/06/2022;87042319;justyn sipes;KGS;1;70973.67;1;ITARE;Italy;JOAQB;Jordan
+25/06/2022;87042319;tressie kohler;KGS;1;70443.05;1;ITARA;Italy;JOQIR;Jordan
+09/06/2022;87042322;margarette bechtelar;KGS;1;71718.24;1;BEASB;Belgium;AEJYH;United Arab Emirates
+07/06/2022;87042320;jeffrey hirthe;KGS;1;65419.35;1;DEABH;Germany;AEPRA;United Arab Emirates
+25/06/2022;87042310;naomie mraz;KGS;1;68508.89;1;ITANN;Italy;AEDXB;United Arab Emirates
+04/06/2022;87042322;morgan halvorson;KGS;1;65239.63;1;BEAMY;Belgium;AEFAT;United Arab Emirates
+28/06/2022;87042313;josiah wiza;KGS;1;68799.87;1;DEATN;Germany;JOMPQ;Jordan
+09/06/2022;87042323;marlene bergnaum;KGS;1;69998.03;1;BEBCO;Belgium;AEDUY;United Arab Emirates
+22/06/2022;87042322;brent kreiger;KGS;1;65453.59;1;ITAIA;Italy;JOMPQ;Jordan
+18/06/2022;87042310;maurine lehner;KGS;1;65599.08;1;BEASB;Belgium;JOQIR;Jordan
+16/06/2022;87042323;reymundo orn;KGS;1;68243.58;1;BEABE;Belgium;JOQIR;Jordan
+04/06/2022;87042329;audie koss;KGS;1;70015.14;1;ITAON;Italy;JOAMM;Jordan
+04/06/2022;87042319;dulce satterfield;KGS;1;70126.40;1;DEASA;Germany;AESHJ;United Arab Emirates
+11/06/2022;87042313;mattie sipes;KGS;1;72556.95;1;ITAMS;Italy;JOAMM;Jordan
+16/06/2022;87042311;tyshawn walter;KGS;1;68098.09;1;ITANO;Italy;AEJYH;United Arab Emirates
+17/06/2022;87042329;milan waelchi;KGS;1;67961.16;1;DEAOR;Germany;JOAQB;Jordan
+12/06/2022;87042311;georgette connelly;KGS;1;70554.31;1;DEAGT;Germany;JOMPQ;Jordan
+03/06/2022;87042321;riley keebler;KGS;1;72676.76;1;DEALP;Germany;JOZAR;Jordan
+09/06/2022;87042313;sally hills;KGS;1;71444.37;1;DEASU;Germany;AEAJM;United Arab Emirates
+17/06/2022;87042323;jaylon schroeder;KGS;1;67738.64;1;BEASE;Belgium;JOAQB;Jordan
+27/06/2022;87042329;enoch kulas;KGS;1;67387.76;1;DEADF;Germany;AEDUY;United Arab Emirates
+01/06/2022;87042311;buford beahan;KGS;1;70982.23;1;BEBCI;Belgium;JOZAR;Jordan
+17/06/2022;87042319;kay leannon;KGS;1;65479.26;1;DEAMM;Germany;JOZAR;Jordan
+02/06/2022;87042313;alexander harris;KGS;1;70023.70;1;DEAHL;Germany;AEDHF;United Arab Emirates
+14/06/2022;87042320;elena mueller;KGS;1;68680.05;1;BEBAZ;Belgium;AEJED;United Arab Emirates
+07/06/2022;87042322;camylle labadie;KGS;1;71632.65;1;BEAAT;Belgium;JOMPQ;Jordan
+07/06/2022;87042320;donnell durgan;KGS;1;70768.27;1;ITALA;Italy;AESHJ;United Arab Emirates
+11/06/2022;87042322;milton boehm;KGS;1;65504.94;1;DEALL;Germany;AEAJM;United Arab Emirates
+16/06/2022;87042320;pedro keebler;KGS;1;65068.47;1;ITAKA;Italy;JOAMM;Jordan
+19/06/2022;87042323;lorena herzog;KGS;1;70049.37;1;ITALC;Italy;AEAJM;United Arab Emirates
+02/06/2022;87042321;domingo kub;KGS;1;64512.18;1;ITATE;Italy;AESHJ;United Arab Emirates
+06/06/2022;87042329;alvis champlin;KGS;1;70126.40;1;DEABH;Germany;JOAMM;Jordan
+17/06/2022;87042311;donnie o'conner;KGS;1;68038.18;1;BEBAR;Belgium;AEMZD;United Arab Emirates
+27/06/2022;87042322;lukas runolfsdottir;KGS;1;71572.75;1;ITALC;Italy;AEMBS;United Arab Emirates
+20/06/2022;87042313;eldridge klein;KGS;1;69766.95;1;ITAJA;Italy;JOMPQ;Jordan
+09/06/2022;87042319;maryam rogahn;KGS;1;68671.49;1;BEABC;Belgium;JOMPQ;Jordan
+19/06/2022;87042320;alford ziemann;KGS;1;68166.56;1;DEASH;Germany;JOMPQ;Jordan
+03/06/2022;87042320;gilbert koelpin;KGS;1;70785.39;1;DEANS;Germany;JOZAR;Jordan
+05/06/2022;87042313;eulalia labadie;KGS;1;71350.23;1;BEAKN;Belgium;JOZAR;Jordan
+14/06/2022;87042313;nyasia kunze;KGS;1;69167.87;1;BEASR;Belgium;JOZAR;Jordan
+02/06/2022;87042310;emilia mills;KGS;1;71624.09;1;ITAVE;Italy;AERUW;United Arab Emirates
+26/06/2022;87042313;zita hartmann;KGS;1;70477.29;1;ITARE;Italy;JOQIR;Jordan
+28/06/2022;87042329;waylon mosciski;KGS;1;68996.71;1;ITACD;Italy;JOZAR;Jordan
+26/06/2022;87042329;edwin reinger;KGS;1;72599.74;1;BEARS;Belgium;AERUW;United Arab Emirates
+14/06/2022;87042321;marlon wiza;KGS;1;67969.72;1;ITACS;Italy;JOAQJ;Jordan
+23/06/2022;87042313;abe dooley;KGS;1;69167.87;1;BEAVR;Belgium;AEAAN;United Arab Emirates
+26/06/2022;87042310;myron rohan;KGS;1;69878.21;1;ITARN;Italy;JOAQJ;Jordan
+08/06/2022;87042323;janick sporer;KGS;1;65847.27;1;DEAHM;Germany;AEABU;United Arab Emirates
+14/06/2022;87042313;jerrod batz;KGS;1;64212.64;1;BEBAZ;Belgium;AEAJM;United Arab Emirates
+26/06/2022;87042321;johnathon reinger;KGS;1;72120.47;1;ITAKA;Italy;AEFJR;United Arab Emirates
+26/06/2022;87042310;bobbie mueller;KGS;1;70049.37;1;ITABN;Italy;AEPRA;United Arab Emirates
+11/06/2022;87042310;jerod renner;KGS;1;66574.72;1;ITAOI;Italy;AESHJ;United Arab Emirates
+07/06/2022;87042320;gilbert pfannerstill;KGS;1;66189.60;1;ITAPZ;Italy;JOAQJ;Jordan
+14/06/2022;87042323;jace nienow;KGS;1;65462.15;1;BEAKN;Belgium;AEHAM;United Arab Emirates
+07/06/2022;87042311;assunta schimmel;KGS;1;65564.85;1;ITASL;Italy;AEMZD;United Arab Emirates
+08/06/2022;87042321;hayley dicki;KGS;1;65496.38;1;DEATZ;Germany;JOZAR;Jordan
+16/06/2022;87042319;drew schamberger;KGS;1;69826.86;1;DEAAH;Germany;JOAQJ;Jordan
+15/06/2022;87042313;brandy considine;KGS;1;71992.10;1;ITADP;Italy;AEAAN;United Arab Emirates
+09/06/2022;87042311;emmy emard;KGS;1;67584.60;1;ITANN;Italy;JOMPQ;Jordan
+26/06/2022;87042311;miles hermiston;KGS;1;71136.27;1;BEAAT;Belgium;AEQIW;United Arab Emirates
+05/06/2022;87042311;sofia cassin;KGS;1;68448.98;1;BEBCN;Belgium;JOAMM;Jordan
+22/06/2022;87042321;maiya hettinger;KGS;1;64589.20;1;ITARE;Italy;JOZAR;Jordan
+19/06/2022;87042329;conor bogisich;KGS;1;65000.00;1;DEANS;Germany;AEMKH;United Arab Emirates
+23/06/2022;87042329;annabell goodwin;KGS;1;69741.28;1;BEABC;Belgium;JOQIR;Jordan
+25/06/2022;87042320;chelsie grady;KGS;1;67978.28;1;DEALN;Germany;JOAQJ;Jordan
+17/06/2022;87042321;emerald grady;KGS;1;69210.66;1;ITAPA;Italy;JOAQB;Jordan
+03/06/2022;87042313;claudie paucek;KGS;1;67687.29;1;DEABE;Germany;JOQIR;Jordan
+01/06/2022;87042321;mable schuster;KGS;1;66985.52;1;DEAIC;Germany;JOAQJ;Jordan
+07/06/2022;87042320;otis hirthe;KGS;1;67986.83;1;BEAIS;Belgium;AEMZD;United Arab Emirates
+07/06/2022;87042313;francesca upton;KGS;1;64974.33;1;DEAPW;Germany;AEABU;United Arab Emirates
+14/06/2022;87042329;fanny grady;KGS;1;66249.51;1;BEADI;Belgium;JOZAR;Jordan
+08/06/2022;87042313;dion king;KGS;1;71752.47;1;BEAST;Belgium;JOAMM;Jordan
+03/06/2022;87042323;raymond mayer;KGS;1;66309.41;1;BEBAL;Belgium;JOQIR;Jordan
+28/06/2022;87042311;reina bins;KGS;1;66001.32;1;BEBAR;Belgium;AEJEA;United Arab Emirates
+29/06/2022;87042321;rowland hammes;KGS;1;66129.69;1;BEAVL;Belgium;JOAQB;Jordan
+12/06/2022;87042313;branson rath;KGS;1;67302.17;1;BEBDI;Belgium;AEDBP;United Arab Emirates
+06/06/2022;87042319;kaelyn willms;KGS;1;64991.44;1;ITARZ;Italy;JOAMM;Jordan
+27/06/2022;87042329;xavier baumbach;KGS;1;65564.85;1;BEASP;Belgium;JOZAR;Jordan
+19/06/2022;87042322;jody rogahn;KGS;1;65205.40;1;DEADF;Germany;AEDXB;United Arab Emirates
+17/06/2022;87042329;cade moen;KGS;1;64940.09;1;DEABS;Germany;AEFMZ;United Arab Emirates
+07/06/2022;87042313;verona jast;KGS;1;71974.98;1;DEASD;Germany;AEDXB;United Arab Emirates
+11/06/2022;87042319;dandre willms;KGS;1;70734.04;1;BEBEL;Belgium;AEHAM;United Arab Emirates
+17/06/2022;87042319;giovani feest;KGS;1;72531.27;1;BEACE;Belgium;JOQIR;Jordan
+06/06/2022;87042319;dee wisozk;KGS;1;70425.94;1;BEAMY;Belgium;AEAMU;United Arab Emirates
+01/06/2022;87042310;harold hudson;KGS;1;66754.44;1;BEAGE;Belgium;AEMAS;United Arab Emirates
+15/06/2022;87042329;georgianna olson;KGS;1;69210.66;1;DEALZ;Germany;AEKLF;United Arab Emirates
+19/06/2022;87042311;fredy welch;KGS;1;68680.05;1;ITALB;Italy;JOAMM;Jordan
+26/06/2022;87042329;simone wilkinson;KGS;1;68217.91;1;DEASC;Germany;AEKHA;United Arab Emirates
+29/06/2022;87042319;laverna parker;KGS;1;72137.59;1;BEAVE;Belgium;AEABU;United Arab Emirates
+24/06/2022;87042310;elinore nolan;KGS;1;64486.50;1;DEALM;Germany;JOZAR;Jordan
+06/06/2022;87042320;jessica roberts;KGS;1;72129.03;1;DEABK;Germany;AEQIW;United Arab Emirates
+10/06/2022;87042329;zetta macgyver;KGS;1;71538.51;1;BEADK;Belgium;AEULR;United Arab Emirates
+19/06/2022;87042321;ruthe pollich;KGS;1;68765.64;1;DEALP;Germany;JOAQJ;Jordan
+25/06/2022;87042323;arno schuster;KGS;1;68337.72;1;ITANO;Italy;JOQIR;Jordan
+20/06/2022;87042310;watson jerde;KGS;1;72736.67;1;BEACH;Belgium;AEPRA;United Arab Emirates
+03/06/2022;87042310;candido ebert;KGS;1;66728.77;1;ITANO;Italy;AEMKH;United Arab Emirates
+20/06/2022;87042313;celia white;KGS;1;67404.87;1;ITACS;Italy;AEPRA;United Arab Emirates
+02/06/2022;87042319;caterina johns;KGS;1;69775.51;1;BEABR;Belgium;JOAQB;Jordan
+19/06/2022;87042310;aurelia adams;KGS;1;72428.57;1;DEAHD;Germany;JOAMM;Jordan
+23/06/2022;87042323;jermey marvin;KGS;1;69330.48;1;BEANB;Belgium;AEJEA;United Arab Emirates
+02/06/2022;87042320;marian fadel;KGS;1;67096.77;1;ITANN;Italy;AEQIW;United Arab Emirates
+12/06/2022;87042311;brian feeney;KGS;1;69732.72;1;DEASA;Germany;JOQIR;Jordan
+12/06/2022;87042323;shayna stroman;KGS;1;67499.01;1;ITATX;Italy;AEZUR;United Arab Emirates
+23/06/2022;87042311;sydnee terry;KGS;1;70023.70;1;ITAST;Italy;AEAUH;United Arab Emirates
+13/06/2022;87042319;guiseppe dickens;KGS;1;66386.44;1;BEBBX;Belgium;JOAQB;Jordan
+10/06/2022;87042313;myrtis mueller;KGS;1;66412.11;1;BEABR;Belgium;AEKLF;United Arab Emirates
+20/06/2022;87042321;chester fadel;KGS;1;67653.06;1;BEAKN;Belgium;JOQIR;Jordan
+25/06/2022;87042313;ashlynn mckenzie;KGS;1;68868.33;1;BEASB;Belgium;JOQIR;Jordan
+14/06/2022;87042329;lelah altenwerth;KGS;1;72206.06;1;BEAES;Belgium;JOZAR;Jordan
+24/06/2022;87042321;kianna spencer;KGS;1;67918.37;1;DEAAR;Germany;AEJEA;United Arab Emirates
+27/06/2022;87042321;theresia kuphal;KGS;1;71726.79;1;ITAGI;Italy;AEKHA;United Arab Emirates
+03/06/2022;87042321;lennie grady;KGS;1;65496.38;1;BEANH;Belgium;JOAMM;Jordan
+02/06/2022;87042319;carlo hyatt;KGS;1;72206.06;1;ITARE;Italy;JOMPQ;Jordan
+01/06/2022;87042320;jennyfer hamill;KGS;1;64837.39;1;ITALE;Italy;JOAQB;Jordan
+29/06/2022;87042329;sigrid brekke;KGS;1;72248.85;1;ITAVN;Italy;AEULR;United Arab Emirates
+18/06/2022;87042319;karen reichert;KGS;1;71076.37;1;DEANZ;Germany;JOAQJ;Jordan
+01/06/2022;87042311;ricardo denesik;KGS;1;72462.80;1;BEBAV;Belgium;AEAJM;United Arab Emirates
+10/06/2022;87042319;alfonzo littel;KGS;1;64888.74;1;ITAGB;Italy;AEQIW;United Arab Emirates
+21/06/2022;87042321;braden casper;KGS;1;70494.40;1;ITALO;Italy;JOMPQ;Jordan
+27/06/2022;87042322;magdalen zieme;KGS;1;68423.30;1;BEADI;Belgium;JOAMM;Jordan
+19/06/2022;87042313;violette walker;KGS;1;65821.59;1;ITARC;Italy;JOQIR;Jordan
+28/06/2022;87042321;stevie kohler;KGS;1;68688.61;1;BEBBX;Belgium;JOAQB;Jordan
+23/06/2022;87042323;joannie lind;KGS;1;71829.49;1;ITALI;Italy;JOMPQ;Jordan
+08/06/2022;87042322;karolann larson;KGS;1;68055.30;1;ITAON;Italy;JOZAR;Jordan
+29/06/2022;87042323;briana stiedemann;KGS;1;67952.60;1;ITARQ;Italy;AEMBS;United Arab Emirates
+20/06/2022;87042310;jerad o'kon;KGS;1;67413.43;1;ITAFF;Italy;AEDUY;United Arab Emirates
+04/06/2022;87042311;martina weber;KGS;1;67464.78;1;DEAMM;Germany;JOZAR;Jordan
+03/06/2022;87042319;domenico reichel;KGS;1;71427.25;1;BEASR;Belgium;AEMKH;United Arab Emirates
+03/06/2022;87042310;hudson lemke;KGS;1;68448.98;1;BEABO;Belgium;AEMAS;United Arab Emirates
+29/06/2022;87042329;alvis senger;KGS;1;68988.15;1;ITAGL;Italy;JOMPQ;Jordan
+13/06/2022;87042311;tabitha steuber;KGS;1;66574.72;1;DEAGB;Germany;JOAMM;Jordan
+06/06/2022;87042311;marjory breitenberg;KGS;1;64409.48;i;ITAGR;Italy;AEDAS;United Arab Emirates
+17/06/2022;87042310;casper brown;KGS;1;69262.01;1;ITAON;Italy;JOQIR;Jordan
+29/06/2022;87042319;webster terry;KGS;1;68457.54;1;ITAGL;Italy;AEPRA;United Arab Emirates
+23/06/2022;87042322;alene reinger;KGS;1;67344.96;1;DEASU;Germany;JOZAR;Jordan
+16/06/2022;87042321;alexandrea hessel;KGS;1;70502.96;1;BEBAN;Belgium;AEMKH;United Arab Emirates
+12/06/2022;87042321;genevieve mclaughlin;KGS;1;71949.31;1;BEASB;Belgium;AEMUB;United Arab Emirates
+23/06/2022;87042322;keeley bartell;KGS;1;68243.58;1;ITAFF;Italy;AEDHF;United Arab Emirates
+08/06/2022;87042323;lauren kub;KGS;1;68508.89;1;DEAER;Germany;AEAAN;United Arab Emirates
+03/06/2022;87042311;aubree walsh;KGS;1;69142.20;1;BEABY;Belgium;JOQIR;Jordan
+13/06/2022;87042321;bertrand crooks;KGS;1;71273.21;1;ITAGB;Italy;AEMZD;United Arab Emirates
+19/06/2022;87042319;sylvia bashirian;KGS;1;70699.80;1;BEBDH;Belgium;JOAQB;Jordan
+28/06/2022;87042311;tad legros;KGS;1;70451.61;1;ITALA;Italy;JOAMM;Jordan
+04/06/2022;87042322;lorena keeling;KGS;1;66078.34;1;DEAMM;Germany;JOMPQ;Jordan
+01/06/2022;87042320;donavon graham;KGS;1;69518.76;1;DEABH;Germany;JOAMM;Jordan
+22/06/2022;87042310;brett monahan;KGS;1;65145.49;1;ITALE;Italy;AENHD;United Arab Emirates
+20/06/2022;87042313;alessia schneider;KGS;1;68466.10;1;BEABO;Belgium;JOZAR;Jordan
+03/06/2022;87042321;ewell torp;KGS;1;67524.69;1;BEAME;Belgium;JOAQJ;Jordan
+15/06/2022;87042323;reese gleason;KGS;1;70263.33;1;ITATO;Italy;AEJEA;United Arab Emirates
+19/06/2022;87042329;oma nikolaus;KGS;1;65573.40;1;BEBAX;Belgium;JOQIR;Jordan
+09/06/2022;87042311;earl kassulke;KGS;1;67584.60;1;BEAAT;Belgium;AEZUR;United Arab Emirates
+04/06/2022;87042319;ethel lehner;KGS;1;64418.04;1;ITADP;Italy;JOAMM;Jordan
+27/06/2022;87042310;nigel lueilwitz;KGS;1;71726.79;1;DEAAH;Germany;AEAAN;United Arab Emirates
+13/06/2022;87042321;arne mann;KGS;1;66223.83;1;DEAKT;Germany;AEAAN;United Arab Emirates
+28/06/2022;87042321;yoshiko vonrueden;KGS;1;69672.81;1;BEAUB;Belgium;AEJEA;United Arab Emirates
+11/06/2022;87042313;sabryna botsford;KGS;1;67721.53;1;ITAGB;Italy;JOAMM;Jordan
+17/06/2022;87042310;rigoberto cummerata;KGS;1;72642.53;1;BEASS;Belgium;JOAQB;Jordan
+07/06/2022;87042320;georgianna hermann;KGS;1;71752.47;1;ITADR;Italy;AEMSA;United Arab Emirates
+05/06/2022;87042319;alek cummerata;KGS;1;67165.24;1;DEAAS;Germany;JOZAR;Jordan
+29/06/2022;87042319;schuyler bogan;KGS;1;68448.98;1;ITAGL;Italy;AEDUY;United Arab Emirates
+09/06/2022;87042310;jovanny krajcik;KGS;1;72274.52;1;DEAFF;Germany;AEAAN;United Arab Emirates
+16/06/2022;87042322;maribel rosenbaum;KGS;1;72651.09;1;ITARA;Italy;AEMZD;United Arab Emirates
+07/06/2022;87042329;leonel brekke;KGS;1;70246.21;1;BEAVR;Belgium;AEARZ;United Arab Emirates
+09/06/2022;87042311;sigmund huel;KGS;1;70177.75;1;DEAMS;Germany;JOAMM;Jordan
+21/06/2022;87042311;pink berge;KGS;1;71675.44;1;DEAAL;Germany;AERKT;United Arab Emirates
+09/06/2022;87042322;twila mckenzie;KGS;1;68791.31;1;ITAVN;Italy;JOAMM;Jordan
+18/06/2022;87042322;anderson parisian;KGS;1;68680.05;1;BEANE;Belgium;AEAMU;United Arab Emirates
+21/06/2022;87042321;durward lehner;KGS;1;71615.54;1;DEACT;Germany;JOQIR;Jordan
+26/06/2022;87042329;dante thompson;KGS;1;69107.97;1;ITAFF;Italy;JOAQB;Jordan
+09/06/2022;87042310;antonietta fadel;KGS;1;65881.50;1;DEALN;Germany;JOAQJ;Jordan
+21/06/2022;87042329;jamie fay;KGS;1;69321.92;1;DEAIC;Germany;JOZAR;Jordan
+28/06/2022;87042329;wiley emard;KGS;1;66052.67;1;BEABO;Belgium;JOZAR;Jordan
+17/06/2022;87042329;hilbert quigley;KGS;1;69604.34;1;ITANN;Italy;AEDHF;United Arab Emirates
+15/06/2022;87042329;stephanie jakubowski;KGS;1;69099.41;i;BEAHE;Belgium;AEAAN;United Arab Emirates
+28/06/2022;87042320;tristian fahey;KGS;1;70323.24;1;ITANN;Italy;AENHD;United Arab Emirates
+14/06/2022;87042320;opal murphy;KGS;1;65599.08;1;BEBAN;Belgium;JOAQB;Jordan
+01/06/2022;87042310;madisen hoppe;KGS;1;72334.43;1;ITAHO;Italy;AEAMU;United Arab Emirates
+19/06/2022;87042313;isabel collier;KGS;1;72171.82;1;DEAND;Germany;JOAMM;Jordan
+01/06/2022;87042329;korey mills;KGS;1;66163.92;1;ITAUG;Italy;JOAQJ;Jordan
+05/06/2022;87042310;rupert dietrich;KGS;1;66763.00;1;BEBDE;Belgium;JOMPQ;Jordan
+27/06/2022;87042319;jimmie mohr;KGS;1;72060.57;1;ITASA;Italy;AEAJM;United Arab Emirates
+16/06/2022;87042322;mikel macejkovic;KGS;1;66386.44;1;ITADE;Italy;AEKHA;United Arab Emirates
+28/06/2022;87042329;itzel bradtke;KGS;1;66711.65;1;BEAPL;Belgium;AEJYH;United Arab Emirates
+08/06/2022;87042320;jack hamill;KGS;1;65727.45;1;ITASM;Italy;JOMPQ;Jordan
+01/06/2022;87042322;yasmeen gleason;KGS;1;71684.00;1;DEAHD;Germany;AEDUY;United Arab Emirates
+13/06/2022;87042313;mable herman;KGS;1;66754.44;1;ITALC;Italy;JOAQJ;Jordan
+21/06/2022;87042323;lee wiza;KGS;1;68380.51;1;ITAGR;Italy;JOAQB;Jordan
+23/06/2022;87042319;marianne simonis;KGS;1;70169.19;1;DEAOR;Germany;JOMPQ;Jordan
+02/06/2022;87042319;mertie carroll;KGS;1;67019.75;1;BEAVR;Belgium;AEMSA;United Arab Emirates
+03/06/2022;87042320;leta swift;KGS;1;65564.85;1;BEAZM;Belgium;AEDUY;United Arab Emirates
+07/06/2022;87042311;jessica hammes;KGS;1;68945.36;1;DEAFT;Germany;AEIND;United Arab Emirates
+02/06/2022;87042322;bennett reilly;KGS;1;68252.14;1;DEATZ;Germany;AEDAS;United Arab Emirates
+26/06/2022;87042323;kristofer wunsch;KGS;1;66976.96;1;BEAAS;Belgium;JOAQB;Jordan
+08/06/2022;87042320;winston douglas;KGS;1;67849.90;1;BEAVR;Belgium;AEAMU;United Arab Emirates
+18/06/2022;87042311;glenna thiel;KGS;1;66078.34;1;BEAFF;Belgium;AEDHF;United Arab Emirates
+23/06/2022;87042311;cindy moore;KGS;1;66181.04;1;DEALM;Germany;JOAMM;Jordan
+15/06/2022;87042311;lou kovacek;KGS;1;68534.56;1;ITACC;Italy;JOAQB;Jordan
+29/06/2022;87042322;gudrun bahringer;KGS;1;66745.89;1;ITASO;Italy;AESHJ;United Arab Emirates
+25/06/2022;87042321;sienna wyman;KGS;1;69116.52;1;ITACI;Italy;AEJEA;United Arab Emirates
+25/06/2022;87042321;delphine green;KGS;1;71333.11;1;DEANN;Germany;AEFAT;United Arab Emirates
+02/06/2022;87042311;caden labadie;KGS;1;68414.75;1;BEAWS;Belgium;JOAQJ;Jordan
+05/06/2022;87042323;hilton cassin;KGS;1;64563.53;1;BEABO;Belgium;AEFAT;United Arab Emirates
+10/06/2022;87042313;verla osinski;KGS;1;64709.02;1;BEAFN;Belgium;JOAQB;Jordan
+12/06/2022;87042323;okey wintheiser;KGS;1;71666.89;1;ITARQ;Italy;JOAQB;Jordan
+24/06/2022;87042329;jaden stanton;KGS;1;72685.32;1;ITALD;Italy;JOAQJ;Jordan
+14/06/2022;87042320;molly beatty;KGS;1;69578.67;1;BEAST;Belgium;JOAQB;Jordan
+06/06/2022;87042322;hal barton;KGS;1;70451.61;1;DEASN;Germany;AEKHA;United Arab Emirates
+17/06/2022;87042311;christiana conn;KGS;1;70939.43;1;ITALA;Italy;JOAMM;Jordan
+22/06/2022;87042311;emerson o'hara;KGS;1;70485.85;1;DEANS;Germany;JOQIR;Jordan
+15/06/2022;87042329;roel larkin;KGS;1;69467.41;1;ITAZZ;Italy;JOAQB;Jordan
+27/06/2022;87042310;magnus pacocha;KGS;1;69262.01;1;DEAFT;Germany;AEHAM;United Arab Emirates
+19/06/2022;87042320;jacklyn collins;KGS;1;65770.24;1;DEAOR;Germany;AEULR;United Arab Emirates
+03/06/2022;87042310;alexys runte;KGS;1;70845.29;1;DEACT;Germany;AEHAM;United Arab Emirates
+18/06/2022;87042329;kathleen vandervort;KGS;1;67387.76;1;BEAKN;Belgium;AEIND;United Arab Emirates
+16/06/2022;87042313;luella mcclure;KGS;1;72334.43;1;BEAGT;Belgium;AEQIW;United Arab Emirates
+22/06/2022;87042320;dallas daugherty;KGS;1;70913.76;1;BEAAS;Belgium;JOAMM;Jordan
+23/06/2022;87042329;neha mante;KGS;1;70947.99;1;ITAPO;Italy;JOMPQ;Jordan
+06/06/2022;87042322;tiffany bergstrom;KGS;1;65949.97;1;DEAMS;Germany;AEQIW;United Arab Emirates
+21/06/2022;87042320;sedrick hoeger;KGS;1;67490.45;1;ITARI;Italy;AEZUR;United Arab Emirates
+06/06/2022;87042321;elroy blick;KGS;1;69544.44;1;BEAES;Belgium;AERKT;United Arab Emirates
+19/06/2022;87042311;juwan fisher;KGS;1;70691.24;1;BEARO;Belgium;AEDUY;United Arab Emirates
+16/06/2022;87042313;brianne pouros;KGS;1;69527.32;1;DEARS;Germany;AEKHA;United Arab Emirates
+25/06/2022;87042310;della thiel;KGS;1;66181.04;1;BEAMO;Belgium;JOQIR;Jordan
+07/06/2022;87042313;jackeline cartwright;KGS;1;68448.98;1;ITASN;Italy;AEAAN;United Arab Emirates
+03/06/2022;87042329;lavada bartoletti;KGS;1;68825.54;1;ITAVO;Italy;AEFMZ;United Arab Emirates
+12/06/2022;87042310;lilian oberbrunner;KGS;1;67721.53;1;ITASI;Italy;AEIND;United Arab Emirates
+07/06/2022;87042329;abdullah towne;KGS;1;68158.00;1;ITAVI;Italy;JOAQB;Jordan
+12/06/2022;87042321;timmothy davis;KGS;1;65881.50;1;BEBAR;Belgium;JOAQJ;Jordan
+30/06/2022;87042321;willow dicki;KGS;1;70571.43;1;ITAKD;Italy;JOAQB;Jordan
+20/06/2022;87042322;uriel tremblay;KGS;1;66138.25;1;BEANS;Belgium;JOQIR;Jordan
+11/06/2022;87042323;rachelle huels;KGS;1;65119.82;1;ITAKD;Italy;AESHJ;United Arab Emirates
+03/06/2022;87042313;gabriel lynch;KGS;1;71572.75;1;ITAMA;Italy;JOAMM;Jordan
+13/06/2022;87042311;carolyne huels;KGS;1;66044.11;1;ITASN;Italy;JOAQB;Jordan
+10/06/2022;87042323;mathilde spencer;KGS;1;67516.13;1;ITABG;Italy;JOAQB;Jordan
+19/06/2022;87042313;tyrell zulauf;KGS;1;64777.49;1;DEANN;Germany;AEMSA;United Arab Emirates
+12/06/2022;87042313;madonna nikolaus;KGS;1;67653.06;1;BEBAS;Belgium;AESHJ;United Arab Emirates
+30/06/2022;87042321;haylie stark;KGS;1;65658.99;1;BEBDH;Belgium;AERUW;United Arab Emirates
+17/06/2022;87042322;brad hilpert;KGS;1;69980.91;1;ITASM;Italy;JOZAR;Jordan
+20/06/2022;87042329;ruth harvey;KGS;1;70811.06;1;BEAEL;Belgium;JOZAR;Jordan
+27/06/2022;87042313;jayson hartmann;KGS;1;72420.01;1;BEASS;Belgium;AEDAS;United Arab Emirates
+07/06/2022;87042320;paris connelly;KGS;1;65958.53;1;BEABK;Belgium;AESHJ;United Arab Emirates
+14/06/2022;87042322;jaycee hand;KGS;1;65419.35;1;ITARI;Italy;JOAQB;Jordan
+29/06/2022;87042322;chase ankunding;KGS;1;71316.00;1;ITACR;Italy;AEAMU;United Arab Emirates
+02/06/2022;87042310;roscoe dietrich;KGS;1;64195.52;1;DEAHA;Germany;JOAQJ;Jordan
+13/06/2022;87042321;shaylee crist;KGS;1;70571.43;1;BEACE;Belgium;AEDBP;United Arab Emirates
+03/06/2022;87042322;carmella greenfelder;KGS;1;67772.88;1;DEABT;Germany;JOQIR;Jordan
+06/06/2022;87042313;chyna schowalter;KGS;1;64435.15;1;ITACA;Italy;AEMUB;United Arab Emirates
+08/06/2022;87042311;ricardo schuppe;KGS;1;69672.81;1;BEAVS;Belgium;AEFJR;United Arab Emirates
+29/06/2022;87042310;marquise jacobs;KGS;1;69304.81;1;ITAVI;Italy;JOQIR;Jordan
+06/06/2022;87042319;isabell wilderman;KGS;1;64794.60;1;DEAHA;Germany;AEDAS;United Arab Emirates
+28/06/2022;87042319;freida green;KGS;1;70134.96;1;ITALC;Italy;AEARZ;United Arab Emirates
+23/06/2022;87042323;payton lebsack;KGS;1;72719.55;1;DEABC;Germany;AEAAN;United Arab Emirates
+04/06/2022;87042322;shirley zieme;KGS;1;65282.42;1;ITACA;Italy;JOAQB;Jordan
+04/06/2022;87042321;glen gottlieb;KGS;1;67593.15;1;ITAVL;Italy;JOAMM;Jordan
+17/06/2022;87042320;rachel okuneva;KGS;1;69749.84;1;BEAFN;Belgium;AEZUR;United Arab Emirates
+09/06/2022;87042313;asha ullrich;KGS;1;66429.23;1;ITAPA;Italy;JOMPQ;Jordan
+20/06/2022;87042321;kiara walter;KGS;1;70811.06;1;DEANZ;Germany;JOMPQ;Jordan
+22/06/2022;87042323;milan cronin;KGS;1;66788.68;1;BEAEL;Belgium;JOAQB;Jordan
+08/06/2022;87042323;mia wiegand;KGS;1;68209.35;1;ITARN;Italy;AEAJM;United Arab Emirates
+17/06/2022;87042322;zander kemmer;KGS;1;64743.25;1;DEATG;Germany;JOZAR;Jordan
+26/06/2022;87042313;gage beier;KGS;1;69210.66;1;BEAIS;Belgium;JOAQB;Jordan
+20/06/2022;87042310;araceli kuphal;KGS;1;72616.85;1;ITAMA;Italy;JOAQJ;Jordan
+23/06/2022;87042321;asia shanahan;KGS;1;70648.45;1;BEAND;Belgium;AEARZ;United Arab Emirates
+19/06/2022;87042322;xavier rowe;KGS;1;69159.32;1;BEASS;Belgium;AEMBS;United Arab Emirates
+21/06/2022;87042323;makenna hagenes;KGS;1;72377.22;1;DEABF;Germany;AEFAT;United Arab Emirates
+17/06/2022;87042310;cleve yundt;KGS;1;72351.55;1;BEASR;Belgium;AEQIW;United Arab Emirates
+10/06/2022;87042321;sabrina mills;KGS;1;72377.22;1;DEALS;Germany;AEDAS;United Arab Emirates
+15/06/2022;87042310;cordia mohr;KGS;1;68235.02;1;BEASR;Belgium;AEMBS;United Arab Emirates
+06/06/2022;87042310;manuel zulauf;KGS;1;66146.81;1;DEARH;Germany;AERUW;United Arab Emirates
+10/06/2022;87042310;heather considine;KGS;1;64563.53;1;DEADN;Germany;AEMKH;United Arab Emirates
+06/06/2022;87042321;genevieve hirthe;KGS;1;65333.77;1;DEALD;Germany;JOMPQ;Jordan
+28/06/2022;87042320;antonina dicki;KGS;1;64315.34;1;ITAKD;Italy;JOAQJ;Jordan
+15/06/2022;87042319;tamia auer;KGS;1;71427.25;1;ITALB;Italy;AEMAS;United Arab Emirates
+02/06/2022;87042320;magnolia ruecker;KGS;1;69664.25;1;ITAVA;Italy;JOAMM;Jordan
+08/06/2022;87042319;retta tremblay;KGS;1;72616.85;1;BEATH;Belgium;JOMPQ;Jordan
+08/06/2022;87042311;aida gorczany;KGS;1;65479.26;1;BEANR;Belgium;AERKT;United Arab Emirates
+22/06/2022;87042323;kamren barton;KGS;1;69664.25;1;DEAMK;Germany;JOQIR;Jordan
+04/06/2022;87042323;georgianna weber;KGS;1;67173.80;1;ITANA;Italy;JOAQJ;Jordan
+25/06/2022;87042329;corrine jaskolski;KGS;1;70528.64;1;BEAFN;Belgium;AEAJM;United Arab Emirates
+07/06/2022;87042329;juliet nienow;KGS;1;69843.98;1;DEANK;Germany;JOAQB;Jordan
+11/06/2022;87042323;jairo keeling;KGS;1;66018.43;1;DEALG;Germany;JOMPQ;Jordan
+24/06/2022;87042313;matilda halvorson;KGS;1;70716.92;1;BEAVS;Belgium;JOAQJ;Jordan
+24/06/2022;87042329;kenyatta kessler;KGS;1;69433.18;1;ITALD;Italy;AEDHF;United Arab Emirates
+08/06/2022;87042319;alphonso rogahn;KGS;1;71059.25;1;DEAMU;Germany;AEHAM;United Arab Emirates
+13/06/2022;87042323;mara yost;KGS;1;69527.32;1;ITACC;Italy;AEJEA;United Arab Emirates
+16/06/2022;87042313;danika ullrich;KGS;1;71410.14;1;ITANN;Italy;JOMPQ;Jordan
+20/06/2022;87042329;raina gerhold;KGS;1;68534.56;1;BEAGE;Belgium;AEIND;United Arab Emirates
+18/06/2022;87042319;madie bins;KGS;1;70117.84;1;DEASS;Germany;AERKT;United Arab Emirates
+16/06/2022;87042321;joany little;KGS;1;70075.05;1;ITARE;Italy;JOAQJ;Jordan
+24/06/2022;87042322;michelle reichert;KGS;1;65136.93;1;BEBCN;Belgium;JOAQB;Jordan
+10/06/2022;87042319;rebecca ruecker;KGS;1;67995.39;1;DEALN;Germany;JOAQJ;Jordan
+28/06/2022;87042319;marietta kuphal;KGS;1;70597.10;1;DEALK;Germany;AEDHF;United Arab Emirates
+17/06/2022;87042321;michele feest;KGS;1;69826.86;1;DEASG;Germany;AEDXB;United Arab Emirates
+19/06/2022;87042313;aurore schoen;KGS;1;71778.14;1;BEBCS;Belgium;JOAQJ;Jordan
+07/06/2022;87042313;prince watsica;KGS;1;72428.57;1;BEAYW;Belgium;JOAQB;Jordan
+17/06/2022;87042319;luella cassin;KGS;1;65830.15;1;ITAPZ;Italy;JOMPQ;Jordan
+26/06/2022;87042310;antonette kihn;KGS;1;67302.17;1;BEAVL;Belgium;AEJYH;United Arab Emirates
+17/06/2022;87042329;velda rau;KGS;1;70674.13;1;BEAMY;Belgium;JOQIR;Jordan
+16/06/2022;87042329;priscilla kertzmann;KGS;1;67139.57;1;DEAKT;Germany;AEDBP;United Arab Emirates
+27/06/2022;87042313;carmine schmitt;KGS;1;70716.92;1;ITARS;Italy;JOZAR;Jordan
+16/06/2022;87042322;winfield gislason;KGS;1;64820.28;1;DEASC;Germany;JOAQJ;Jordan
+12/06/2022;87042321;cyrus larson;KGS;1;67208.03;1;DEARG;Germany;AEDBP;United Arab Emirates
+22/06/2022;87042313;oliver waters;KGS;1;65855.83;1;ITASM;Italy;AEIND;United Arab Emirates
+20/06/2022;87042313;emmitt kuhic;KGS;1;71529.95;1;ITAVO;Italy;JOAQJ;Jordan
